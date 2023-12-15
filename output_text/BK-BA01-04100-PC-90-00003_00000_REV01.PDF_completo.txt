@@ -1,0 +1,1234 @@
+                   BK-BA01 -04100 -PC-90-0000 3 Rev. 1  
+ 
+Equipe Envolvida na Elaboração  
+Nome  Área/Empresa  Cargo/Função  e-mail 
+Rafael Rebouças de Araujo  Automação / Braskem  Eng. Automação  rafael.araujo@braskem.com  
+Maria do Socorro Azevedo  Automação / Braskem  Eng. Automação  socorro.azevedo @braskem.com  
+Alexandre Marinho  Instrumentação / Braskem  Eng. Instrumentação  alexandre.marinho@braskem.com  
+Vinicius Sena do Nascimento  Instrumentação / Braskem  Eng. Instrumentação  vinicius.nascimento@braskem.com  
+Erick Jomil Bahia Garcia  DEP / Braskem  Eng. Instrumentação  erick.garcia@braskem.com  
+Alexandre Borba  Produção / Braskem  Engenheiro Produção  alexandre.borba@braskem.com  
+Karina Midlej  Processo / Braskem  Engenheira Processo  karina.midlej@braskem.com  
+Helena Olivieri  Processo / Braskem  Engenheira Processo  helena.olivieri@braskem.com  
+Camila Leite Cancio Moreira  Automação / Braskem  Eng. Automação  camila.cancio@braskem.com  
+ 
+Rua Ete no 1561, Pólo Petroquímico - CEP 42810 -000 Camaçari – BA – Brasil / Fone: (55 -71) 3413 -2407  Fax (55 -71) 832 -5060  
+www.braskem.com  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PROJETO CONCEITUAL  
+Repotencialização do sistema de intertravamento dos fornos 
+BA-4103/04/05/08/09/10  
+PJ - 0601420  
+A-4100  
+ 
+UNIB - BA 
+ 
+ 
+Volume I  
+ 
+ 
+ 
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Camaçari – Bahia  
+Novembro /2021 
+ CÓPIA PARA CONSULTA
+          BK-BA01 -04100 -PC-90-00003 Rev. 1 
+ 2/27 
+ 
+ 
+ 
+Sumário  
+1. INFORMAÇÕES GERAIS DO PROJETO ................................ ................................ . 3 
+1.1 OBJETIVO DO PROJETO  ................................ ................................ ........................  3 
+1.2 DOCUMENTOS DE REFERÊNCIA  ................................ ................................ ............  3 
+1.3 DESCRIÇÃO DO PROCESSO  ................................ ................................ ...................  4 
+1.4 DEFINIÇÕES E ABREVIATURAS  ................................ ................................ ..............  4 
+1.5 DESCRIÇÃO DO SISTEMA ATUAL  ................................ ................................ ...........  5 
+1.6 PREMISSAS  ................................ ................................ ................................ .........  10 
+1.7 DESCRIÇÃO DO SISTEMA PROPOSTO  ................................ ................................ .. 16 
+1.8 ARMÁRIOS DE BARREIRAS E DE INSTRUMENTAÇÃO ELETRÔNICA  .....................  17 
+1.9 ARMÁRIOS DE INTERTRAVAMENTO  ................................ ................................ ..... 17 
+1.10 ARMÁRIOS AUXILIARES  ................................ ................................ .......................  18 
+1.11  ARMÁRIOS DE ISOLAÇÃO DE SINAIS DO CAMPO  ................................ .................  19 
+1.12  GENERALIDADES  ................................ ................................ ................................ . 19 
+1.13  ESTRATÉGI A DE IMPLANTAÇÃO  ................................ ................................ ..........  21 
+1.14  BENEFÍCIOS QUALITATIVOS E QUANTITATIVOS  ................................ ...................  22 
+2. INFORMAÇÕES GERAIS DE ENGENHARIA  ................................ ........................  22 
+2.1 CARACTERISTICAS DOS EQUIPAMENTOS ................................ ............................  22 
+2.2 LAYOUT/LOCALIZAÇÃO DE EQUIPAMENTOS  ................................ .......................  23 
+2.3 CONDIÇÕES AMBIENTAIS  ................................ ................................ ....................  23 
+2.4 ESTUDOS DE RISCO (HAZOP/FMEA/APP/LOPA)  ................................ ....................  23 
+2.5 CONSIDERAÇÕES FINAIS  ................................ ................................ .....................  23 
+3. INFORMAÇÕES DE REVISÕES  ................................ ................................ ...........  23 
+3.1 REGISTRO DAS EMISSÔES DAS REVISÕES DO PROJETO CONCEITUAL  ...............  23 
+  CÓPIA PARA CONSULTA
+          BK-BA01 -04100 -PC-90-00003 Rev. 1 
+ 3/27 
+ 
+ 
+ 
+1. INFORMAÇÕES GERAIS DO PROJETO  
+1.1 OBJETIVO DO PROJETO  
+O objetivo deste projeto é a migração das funções lógicas do Sistema Instrumentado de 
+Segurança (SIS) dos equipamentos BA-4103/4104/4105/4108/4109/4110. O sistema é baseado em 
+relés eletromecânicos e armários analógicos Foxboro SPEC -200, o qual será substituído por uma 
+plataforma de hardware e software de alta confiabilidade baseada em PLC, certificado e homologado 
+pela Br askem para este fim.  
+O empreendimento também objetiva a migração das máquinas utilizadas para SOE e engenharia  
+dos PLCs de UO2  e dos protetores de sobrevelocidade dos compressores .  
+Este projeto contempla ainda a substituição de chaves de processo (pressostatos, chaves de 
+nível, etc.) com função de iniciador de trip ou comando por transmissores (4 a 20 mA), bem como a 
+substituição das válvulas solenoides de 125 VDC por solenoides de 24 VDC. As chaves de fim de curso 
+deverão substituídas também para 24 VDC. O projeto também contempla a adequação de todas as 
+malhas de proteção com SIL. Além disto, este conceitual deve apresentar os req uisitos mínimos que 
+orientem o p rojeto básico.  
+1.2 DOCUMENTOS DE REFERÊNCIA  
+Descrição  Número  revisão  
+Diagrama Funcional - Painel EM -CII-103 - BA-4103  BK-BA01 -00001 -DI-80-00034  11 
+Diagrama  Funcional - Painel EM -CII-104 - BA-4104  BK-BA01 -00001 -DI-80-00035  11 
+Diagrama Funcional - Painel EM -CII-105 - BA-4105  BK-BA01 -00001 -DI-80-00036  13 
+Diagrama Funcional - Painel EM -CII-108 - BA-4108  BK-BA01 -00001 -DI-80-00030  11 
+Diagrama Funcional - Painel EM -CII-109 - BA-4109  BK-BA01 -00001 -DI-80-00029  14 
+Diagrama Funcional - Painel EM -CII-110 - BA-4110  BK-BA01 -04100 -DI-80-00004  7 
+Diagrama Funcional - Painel EM -CII-110 – A-
+Comum  BK-BA01 -00001 -DI-80-00027  11 
+Diagrama Funcional - Painel EM -CII-111 - A-
+Comum  BK-BA01 -00001 -DI-80-00025  20 
+Interlock and Logic Diagram BA -4101  BK-BA01 -04100 -DP-80-00021  6B 
+Interlock and Logic Diagram BA -4102  BK-BA01 -04100 -DP-80-00022  5B 
+Interlock and Logic Diagram BA -4103  BK-BA01 -04100 -DP-80-00023  5A 
+Interlock and Logic Diagram BA -4104  BK-BA01 -04100 -DP-80-00024  6 
+Interlock and Logic Diagram BA -4105  BK-BA01 -04100 -DP-80-00025  5A 
+Interlock and Logic Diagram BA -4106  BK-BA01 -04100 -DP-80-00026  5B 
+Interlock and Logic Diagram BA -4107  BK-BA01 -04100 -DP-80-00027  6 
+Interlock and Logic Diagram BA -4108  BK-BA01 -04100 -DP-80-00028  5A 
+Interlock and Logic Diagram BA -4109  BK-BA01 -04100 -DP-80-00029  6 
+Diagrama Lógico e de Intertravamento - BA-4110  BK-BA01 -04100 -DI-80-00006  2 
+Interlock and Logic Diagram EI -CII-123 BK-BA01 -00001 -DI-80-00028  11 
+Relatório De Conformidade à IEC 61511  BK-BA01 -04100 -MC-80-00011  2 
+Arquitetura Física da Rede Industrial  BK-BA01 -00001 -PL-90-00005  20 
+   
+   
+CÓPIA PARA CONSULTA
+          BK-BA01 -04100 -PC-90-00003 Rev. 1 
+ 4/27 
+ 
+ 
+ 
+1.3 DESCRIÇÃO  DO PROCESSO  
+A Unidade de Olefinas II da unidade Químicos 1 da Braskem tem como objetivo principal à 
+produção de etileno. A UO -II é dividida em Área Quente, Compressão de Gás de Carga e Área Fria. A 
+Área Quente (4100) é composta por 10 fornos; a área da Compressão (4200) é responsável pela 
+compressão do gás de carga e  a Área Fria é dividida nas áreas 4300, 4400, 4500 e 4600, sendo as duas 
+últimas áreas de refrigeração.  
+A Área Quente (4100) ainda possui alguns dos seus sistemas de intertravamento baseado em 
+relés. Este sistema possui componentes bastante antigos em comp aração às mais recentes tecnologias, 
+o que dificulta e/ou encarece sua manutenção e também o deixa mais sujeito à falhas e indisponibilidade.  
+A Braskem já vem substituindo os relés por PLC de segurança, conforme previsto no Plano 
+Diretor da Automação, em q ue os painéis de relés eletromecânicos e temporizados deram lugar a 
+controladores lógicos programáveis com tecnologia TMR, visando garantir a confiabilidade e 
+disponibilidade da planta.  
+1.4 DEFINIÇÕES E ABREVIATURAS  
+As seguintes siglas e definições serão usada s no decorrer desse documento:  
+• ABNT: Associação Brasileira de Normas Técnicas  
+• ABS: Armário de Barreiras de Segurança  
+• ACA: Armário de Componentes Auxiliares  
+• APP: Análise Preliminar de Perigo  
+• CA: Console de Alarmes (Pan Alarme)  
+• CUNV: Console Universal (conso le que comporta as botoeiras)  
+• CCM: Centro de Controle de Motores  
+• CEMAP II: Sala de controle das plantas de Olefinas e Aromáticos II  
+• CPU: Unidade Central de Processamento  
+• CENTUM CS3000: Modelo de SDCD da Yokogawa  
+• CENTUM VP: Modelo de SDCD da Yokogawa  
+• CENTUM  XL: Modelo de SDCD da Yokogawa  
+• EI: Armário de Instrumentação Analógica  
+• EM: Armário de Relés  
+• HAZOP: Hazard and Operability Study  
+• IEC: International Electrotechnical Commission  
+• ISA: International Society of Automation  
+• JBI: Caixa de Junção  
+• MTL: Measurement Technology Ltda.  - Fabricante de dispositivos de proteção  
+• PID: Controle Proporcional Integral Diferencial  
+• PLC: Program mable Logic Controller  - Controlador Lógico Programável  
+• SDCD: Sistema Digital de Controle Distribuído  CÓPIA PARA CONSULTA
+          BK-BA01 -04100 -PC-90-00003 Rev. 1 
+ 5/27 
+ 
+ 
+ 
+• SEQ: Armário do Registra dor de Eventos  
+• SIL: Safety Integrity Level  
+• SIS: Sistema Instrumentado de Segurança  
+• SOE: Sequence of Events  
+• TAF: Testes de Aceitação de Fábrica  
+• TMR: Módulos de tripla redundância  
+• UO: Unidade de Olefinas  
+1.5 DESCRIÇÃO DO SISTEMA ATUAL  
+O sistema atual de intertra vamento d os fornos BA -4103/04/05/08/09/10  da UO-II contempla m 
+seis armários de relés EM -CII-103/104/105/108/109/110  (fornos de pirólise ) e o EM -CII-123 (isolação) .  
+A relação dos armários que fazem parte do escopo deste projeto encontra -se na T abela 1 .1. 
+ 
+Tabela  1.1 – Relação dos EM’s do projeto  
+Armário  AI AI – Termopar  DI DO FORNO  
+EM-CII-103 11 04 32 100 BA-4103  
+EM-CII-104 11 04 32 100 BA-4104  
+EM-CII-105 11 04 32 100 BA-4104  
+EM-CII-108 11 04 28 100 BA-4108  
+EM-CII-109 11 04 32 100 BA-4109  
+EM-CII-110 04 06 179 38 Área Comum  
+EM-CII-112 11 04 32 100 BA-4110  
+EM-CII-106 00 00 148 99 Interface 
+Elétrica  
+EM-CII-123 00 00 46 100 Isolação  
+EI-CII-101/102/106  Obs.1  Obs.1  Obs.1  Obs.1  SPEC 200  
+EI-CII-107 10 00 00 10 Barreiras  
+Obs.1 – Quantificar no projeto básico.  
+ 
+Os painéis de relés recebem sinais que vêm do campo , passando por caixas de junção  (JB). As 
+JB são utilizadas para agrupamento de sinais no campo, isto é, recebem pares de cabos individuais  e 
+encaminham os sinais em multi -cabos, facilitando o encaminhamento para a sala de controle .  
+Os armários de EM localizados na sala de racks são do tipo porta basculante. Possuem na porta 
+frontal chaves de bypass para manutenção dos iniciadores de intertravamento. Na porta basculante CÓPIA PARA CONSULTA
+          BK-BA01 -04100 -PC-90-00003 Rev. 1 
+ 6/27 
+ 
+ 
+ 
+ficam localizados os relés e na chapa traseira as réguas de borne s com os sinais de entrada e saída  
+digitais . 
+Os sinais analógicos do campo que são escopo deste projeto passam por 3 (três)  armários de 
+eletrônica (SPEC -200 da Foxboro, EI -CII-101; EI-CII-102; EI-CII-106) e os sinais discretos são  
+endereçados diretamente a os EM . 
+Os sinais analógicos referentes às variáveis de processo são enviados através de transmissores 
+eletrônicos ou sinais de termopar para a sala de controle, onde são inicialmente tratados por cartões da 
+série SPEC -200 da Foxboro  e no painel EI -CII-107.  
+Estes cartões estão localizados nos armários de instrumentação eletrônica (EI) e convertem os 
+sinais 4 a 20 mA para discreto. Estes sinais são então encaminhados aos armários de relés (EM). A 
+Figura 1.1 ilustra o encaminhamento atual deste tipo de sinal.  
+ 
+ 
+Fig. 1 .1 – Encaminhamento atual de sinais analógicos de campo para intertravamento  
+ 
+Os sinais discretos provenientes de chaves de campo  entram direto nos armários de EM, 
+passando por réguas de bornes localizadas na chapa traseira destes. Da mesma forma, os sinais 
+discretos endereçados às v álvulas solenoides  no campo. A F igura 1 .2 ilustra o encaminhamento atual 
+destes tipos de sinal.  
+ 
+Fig. 1.2 – Encaminhamento atual de sinais discretos de campo para intertravamento  
+ 
+Os sinais discretos provenientes da subestação elétrica, sinais de posição de válvulas 
+motorizadas, sinalização de motores e comando para estes dispositivos passam por armários  auxiliares 
+com fins d e interface até chegarem aos EM . A Figura 1 .3 ilustra o encaminhamento atual destes tipos 
+de sinal.  
+CÓPIA PARA CONSULTA
+          BK-BA01 -04100 -PC-90-00003 Rev. 1 
+ 7/27 
+ 
+ 
+ 
+ 
+Fig. 1 .3 – Encaminhamento atual de sinais discretos da subestação para intertravamento  
+ 
+As chaves seletoras e botoeiras existentes na CUNV  estão ligadas diretame nte aos EM de lógica. 
+A figura 1 .4 ilustra o encaminhamento atual destes tipos de sinal.  
+ 
+Fig. 1.4 – Encaminhamento atual de sinais discretos do CUNV  para intertravamento  
+ 
+A arquitetura atual do sistema de intertravamento pode ser representada  conforme  a Figura 1 .5. 
+Os armários de relés processam as informações dos sinais recebidos seguindo funções lógicas 
+definidas em diagramas funcionais através de relés eletromecânicos e relés temporizadores e enviam 
+sinais de comando, para atuar em válvulas solenoides  ou para coma ndar motores elétricos. O armário 
+EM-CII-114 é interface com a subestação, utilizado para interligar os circuitos elétricos dos armários de 
+intertravamento com os circuitos de comando dos motores elétricos.  
+Cada cartão do armário de instrumentação eletrôni ca (EI) possui em média mais de 50 
+componentes eletrônicos tais como capacitores, circuitos integrados, resistores, diodos, bobinas etc ., 
+com mais de 18 anos de fabricação e por isto sujeito a falha s. A substituição desses cartões é 
+tecnicamente inviável d evido à obsolescência (não são mais fabricados). De modo similar aos armários 
+de instrumentação eletrônica  (EI), os armários de relés  (EM) possuem cerca de uma centena de relés 
+eletromecânicos e uma dezena de relés temporizados, há muitos anos em uso.  
+Os a rmários de cartões eletrônicos (EI) e os armários de relés possuem:  
+• componentes em final de vida útil;  
+• um grande número de componentes e conexões;  
+• condições inseguras devido ao grande volume de cabos no seu interior;  
+• tendência de aumento do número de falhas.  
+ 
+  
+CÓPIA PARA CONSULTA
+          BK-BA01 -04100 -PC-90-00003 Rev. 1 
+ 8/27 
+ 
+ 
+ 
+ 
+Fig. 1 .5 – Arquitetura atual do SIS  
+ 
+Existem dois tipos básicos de falhas que podem ocorrer nos elementos do sistema atual:  
+• Falha oculta: por se tratar de uma falha não aparente não é diagnosticada com facilidade. 
+Somente descobriremos a sua existência quando houver uma demanda para o sistema 
+de proteção atuar , onde o mesmo não irá funcionar conforme esperado . É o tipo de falha 
+mais perigosa porque pode provocar danos catastróficos, já que o sistema de proteção, 
+estando em falha, não irá atuar corretamente quando demandado . 
+• Falha espúria: essa falha é mais comum e aparente. Podemos citar como exemplo a 
+queima de uma bobina, resultando em um trip espúrio. Neste caso, o sistema atuaria de 
+forma não desejada, mas sempre levando o processo para uma condição de segurança.  
+O sistema de intertravamento d o escopo deste projeto contempla os armários da Tabela 1 .1, 
+além de 1 armário  de inte rface - ACA-CII-106. 
+Na sala de racks d a UO-II também são encontrados outros armários, a exemplo dos que recebem 
+contatos de relés para registrar eventos (SEQ -CII-101 e  102) e armários de  interface com o Pan Alarme  
+(CA-CII-101 a 103).
+CÓPIA PARA CONSULTA
+ BK-BA01 -04100 -PC-90-00003 Rev. 0  9/27 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura 1 .6 - Arranjo Atual do Sistema de Intertravamento de Olefinas II  
+ 
+ 
+ 
+ 
+CÓPIA PARA CONSULTA
+ BK-BA01 -04100 -PC-90-00003 Rev. 1 
+ 10/27 
+ 
+ 
+ 
+ 
+1.6 PREMISSAS  
+As seguintes premissas deverão ser consideradas no desenvolvimento desse 
+projeto.  O projeto básico já foi realizado pelo PJ -0600765 em 2016  e deverá ser 
+revisado para contemplar a situação atual . 
+O detalhamento do projeto dev erá considerar a migração das ló gicas de 
+intertravamento dos fornos da UO -II na oportunidade de parada geral da CEMAP  II a 
+ser realizada em 2023.  
+Utilizar como referência o PJ -0601157 (migração do SIS de relés para PLC 
+dos fornos BA -4101/02/06/07), principalmente em relação às lógicas dos fornos BA -
+4106/07, visto que são do mesmo modelo (Linde) dos fornos escopo de ste projeto. 
+Atentar para o forno BA -4110, visto que o mesmo é o único dos seis fornos aqui 
+tratado a não possui r a flexibilidade de operar com ar quente.  
+Ainda com relação ao escopo de lógica, deverá ser contemplado no projeto 
+básico a revisão da lógica de queima do gás metano para a turbina GI -4101A.  
+O projeto b ásico deverá validar os estudos de LOPA existentes, baseado nos 
+estudos que foram executados pelo PJ -060115 7 (BA-4101/02/06/07 ). O novo estudo 
+de LOPA/SIL deve prever redundância necessária para i nstrumentos de campo dos 
+fornos bem como seus sistemas auxiliares  de modo que o intervalo de teste possa 
+atender ao intervalo de parada dos mesmos.  
+Todos os instrumentos pertencentes a Função Instrumentada de Segurança 
+(FIS) independente  do SIL calculado d evem ter  em campo identifica ção extra  com 
+marcação específica para fácil gerenciamento do ativo pela Operação/ Manutenção . 
+Abaixo segue sugestão da marcação (plaqueta de identificação) que deve ser afixado 
+aos instrumentos da s malha s pertencentes aos Sistem as Instrumentados de 
+Segurança . 
+ 
+ 
+ 
+ 
+ 
+Deverão ser removidos , e desinstalados,  com as documentações canceladas 
+os seguintes painéis:  
+✓ ACA-CII-108 (LÓGICA 2oo3 dos GBs)  
+✓ CP-CII-101 (ANTIGO PLC DA PSA)  
+✓ EI-CII-101 (A-4400 SPEC 200)  
+✓ EI-CII-102 (A-4400 SPEC 200)  
+✓ EI-CII-106 (A -4400 SPEC 200)  
+ 
+O local destes armários poder á usado  para os novos painéis de interface dos 
+sinais analógicos.  Mesmo descritivo do PJ -
+0600765 de 2016 . 
+Foram removidos  
+ SIS/SIL  
+CÓPIA PARA CONSULTA
+ BK-BA01 -04100 -PC-90-00003 Rev. 1 
+ 11/27 
+ 
+ 
+ 
+ 
+Deverão ser especificados 02 (dois) novo s PLC TMR Tri conex 
+(hardware +software ) adequado para aplicações SIL 2 e painéis , baseados  nos 
+cenários identificados com  SIL 2  requerido  pelo método gráfico já concluído  pela Q1-
+BA. Esse s novo s PLC deverão ser integrados  com a rede de PLC já existente 
+(Tristation/Trilogger e SOE). O BK -BA01 -04100 -MC-80-00011_00000  relatório de 
+conformidade à  IEC 61511  deverá ser revisado para inclusão dos demais fornos. A 
+instrumentação de campo deve ser adequada, caso necessário, para atender ao 
+estudo de SIL.  
+Deve ser  mantido o padrão adotado pelo  PJ-0601157, conforme a Tabela 1 .2. 
+Tabela 1.2 – Agrupamento dos fornos  por PLC.  
+PLC-11  
+(já migrado)  PLC-09  
+(já migrado)  PLC-13 
+(instalar em 202 3) PLC-12 
+(instalar em 202 3) 
+BA-4101 BA-4106 BA-4108  BA-4103  
+BA-4102 Área comuns  BA-4109  BA-4104  
+BA-4107 - BA-4110  BA-4105  
+ 
+Nos fornos da UO -II, existe um termopar duplo ( TE -41_93 e TE -41_94 ) no 
+sistema de saída de vapor no HPDDH -2, em que neste termopar duplo é 
+compartilhado um elemento para realizar controle e o outro elemento para participar 
+da lógica de trip do dos fornos. Nos fornos que já foram migrados este 
+desmembramento foi realizado na época pelo PJ -0601341 com a instalação de um 
+novo poço com novo termopar para que as funções de intertravamentos e controle 
+sejam separadas. Sendo assim, este projeto deve prever em seu escopo a 
+segregação, para os fornos  BA-4103/04/05/08/09/10 , a função intertravamentos da 
+função controle.  
+O PLC (hardware ) dever á ter alimentação redundante em 125 VDC e 127 
+VCA independentes  e vitais . As falhas destas fontes deverão  gerar alarme na sala 
+de controle.  
+Os PLC-12 e PLC -13 dever ão ser adquirido s em 20 22, com data de 
+fornecimento suficiente para sua montagem em 20 23 durante a parada geral de 
+planta da CEMAP II.  
+O projeto básico deverá dimensionar  a quantidade de painéis  de alimentação 
+elétrica  de fontes de 24 VCC  para as cargas  e barreiras  dos PLC deste projeto. Esses 
+painéis deverão  ter alimentação redundante  e independente  em 125 VDC e 127 VCA  
+vitais  as fontes a serem instaladas , conforme projeto do PNCC -1051 -103 do PJ -
+0603620 . Os projetos  PJ-0603620 e PJ -0601157 deverão  ser utilizados como 
+referência . Deverá haver  geração de alarme de falha de fonte s no SDCD.  
+Deverá ser determinad a a quantidade  de pain éis de barreiras  ativas  de 
+segurança intrínseca  (tipo ativa com isolação galvânica no padrão da UO -II) em  
+conformidade com os I/O conforme a quanti dade levantada pelos EM  e EI. As 
+barreiras  serão ativas e serão  instaladas em power rail  com dupla alimentação  em 
+24 VCC  e com comunicação Hart com o gerenciador de ativos.  As réguas de 
+interligação deste painel deverão  ser disposta s separadamente por forno.  O painel 
+de barreiras atual já foi previsto para comportar t odos os sinais analógicos dos fornos. 
+O projeto básico deverá confirmar esta informação.  CÓPIA PARA CONSULTA
+ BK-BA01 -04100 -PC-90-00003 Rev. 1 
+ 12/27 
+ 
+ 
+ 
+ 
+Os sinais de temperatura (mV) serão convertidos em sinais de 4 a 20 mA nas 
+barreiras de segurança intrínseca, de forma que não devem ser previstos I/O 
+diretamente de temperatura no PLC.  
+Todos os painéis de EM serão aproveitados durante as migrações de relés 
+para PLC, removendo a porta basculante com seus r espectivos relés e chaves de 
+bypass  das portas  frontais . Estes EM serão agora painéis de interface ( passagem) 
+entre os I/Os  do PLC e o campo,  seguindo a referência do  PJ-0603620  e PJ-0601157.  
+ 
+Deverá ser utilizado o  painel de rearranjo  (com borneiras segregadas por 
+forno)  montado na PGM 2016, para a  migração dos sinais analógicos d os fornos 
+(interligar com os EI  e armários de barreiras). Como os multicabos de campo da área 
+quente ( fornos ) chegam na sala de racks pelo lado sul, o novo painel de rearranjo 
+será locado entre os eixos 4 & 5 do layout da sala de controle do lado  (espaço vazio)  
+do SEQ -CII-101. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Deverá ser utilizado o  painel  com concentradores de sinais de comando para 
+os novos anunciador es de alarmes (Monitor Digital), co nforme painel RCK -SC1051 -
+04 existente.  
+A ACA -CII-106 deverá ser preparada com relés segregadas por fornos. 
+Somente haverá  relés de interposição para os sina is de comando do PLC para o 
+CCM. Os sinais de sinalização do CCM para o PLC ou para o SDCD (CCM cede 
+contato seco) não precisarão de rel é de interposição.  
+A ACA -CII-106 já foi instalada e contempla todo o hardware necessário para 
+o novo PLC . O projeto bási co deverá validar se a ACA -CII-106 está preparada e 
+possui capacidade para receber os sinais dos 6 novos fornos.  
+O EM -CII-114 foi modificado na pa rada de 2016 com a remoção dos relés e 
+se tornou um painel de passagem . O projeto básico deverá ratificar a esta 
+informação.  
+JB 
+DE CAMPO  Painel de 
+Rearranjo  EI-CII-101/102  
+/106/107  EMs 
+PLCs  
+NOVO 
+PAINEL  DE 
+BARREIRA  CÓPIA PARA CONSULTA
+ BK-BA01 -04100 -PC-90-00003 Rev. 1 
+ 13/27 
+ 
+ 
+ 
+ 
+O EM -CII-123 terá a lógica  migrada para o novo PLC . 
+A lógica de intertravamento do projeto original  dos fornos  será mantida, sendo 
+apenas migrada dos relés para PLC.  As exceções para esta premissa serão as 
+malhas que necessitarão de adequação ao SIL requerido.  A lógica migrada pelo PJ -
+0601157 para os BA -4106/07 deverá ser utilizada como base para os BA -
+4103/04/05/08/09, e adaptada para o BA -4110 (diferente dos demais p ois não tem 
+disponibilidade de ar quente para queima). O projeto básico deverá ratificar esta 
+informação.  
+Multicabos  do porão de cabos  não serão removidos.  
+Deverá ser considerada a montagem de eletrocalhas e bandejas  interna à 
+sala de controle na pré parad a. 
+Para os novos painéis, o detal hamento  deverá atentar para entrada de cabos 
+por cima  ou por baixo.  
+Os cabos que serão substituídos, além de serem desconectados, deverão 
+ser, sempre que possível, removidos dos armários. Considera -se que os PJ -0601157 
+(revamp interlock fornos 01/02/06/07) e PJ -0600423 (migração SDCD fornos 
+01/02/06/07) prepararam toda a e strutura existente para possibilitar a execução dos 
+PJ-0601420 (revamp interlock fornos 03/04/05/08/09/10) e PJ -0601503 (migração 
+SDCD fornos 03/04/05/08/09/10) durante o cronograma de parada geral da CEMAP  
+II. Caso não seja possível a remoção de algum cab o, o mesmo deverá ser isolado e 
+trazido para baixo do armário, com etiqueta identificando -o como “DESATIVADO ”. O 
+projeto básico deverá ratificar esta informação.  
+Deverão ser criadas chaves lógicas no SDCD para substituir as atuais chaves 
+de bypass  dos contatos dos relés de entrada. Estas chaves serão transmitidas aos 
+PLC via comunicação para atuar nas lógicas de intertravamento.  
+Os novos transmissores do BA -4103/04/05/08/09/10  que substituirão as 
+chaves de proce sso deverão ser  interligados. Caixas de junção novas  deverã o ser 
+instaladas para atender o novo PLC . Deverão ser previstos novos eletrodutos  com 
+multicabos reservas para serem usados nos outros fornos . O projeto básico deverá 
+ratificar esta informação.  
+A configuração existente para os sinais relativos aos alarmes e “trips“ 
+configurados para indicação nas telas do SDCD  deverão ser migradas para o mapa 
+de comunicação entre PLC e SDCD . 
+A configuração do Pan Alarme deverá ser modificada de forma que o PLC 
+envie as informações via comunicação diretamente ao SDCD, reduzindo a 
+quantidade de saídas digitais.  Painel de alarmes  serão removidos . Para atualização 
+do Pan Alarme de UO -II deve -se seguir as definições do PJ -0602217 que também 
+tem previsão par a execução de escopo durante a parada geral da CEMAP II.  
+A comunicação entre PLC e SDCD  será através de protocolo modbus 
+redundante e deve ser considerada a segmentação da comunicação por estação de 
+controle.  A Tabela 1 .3 apresenta a comunicação entre os novos PLC e os novos 
+SDCD instalados pelo PJ -0601503.  O PJ -0601503 será responsável pela  compra dos 
+cartões de comunicação redundantes do SDCD e o PJ -0601420 será responsável 
+pela compra de todo o hardware (incluindo cartão de comuni cação) do PLC , bem 
+como encaminhamento de cabos e definição da rede/infraestrutura.  
+ CÓPIA PARA CONSULTA
+ BK-BA01 -04100 -PC-90-00003 Rev. 1 
+ 14/27 
+ 
+ 
+ 
+ 
+Tabela 1.3 – Agrupamento dos fornos  por PLC.  
+PLC-11  
+(instalado pelo 
+PJ-0601157 ) 
+(BA4101/ 
+BA4102/ 
+BA4107)  PLC-09  
+(instalado pelo 
+PJ-0601157 ) 
+(BA4106/ 
+comum 
+fornos)  PLC-13 
+(instalar em 202 3 
+pelo PJ -0601420 ) 
+(BA4108/ 
+BA4109/ 
+BA4110)  PLC-12 
+(instalar em 202 3 
+pelo PJ -0601420)  
+(BA4103/ 
+BA4104/ 
+BA4105)  
+Comunica -se 
+com:  
+FCS0301  
+(instalada pelo 
+PJ-0600423)  Comunica -se 
+com:  
+FCS0303  
+(instalada pelo 
+PJ-0600423)  Comunica r 
+com:  
+FCS030 4 
+(instalar em 202 3 
+pelo PJ -0601503 ) 
+E  
+FCS030 5 
+(instalar em 202 3 
+pelo PJ -0601503 ) Comunicar  
+com:  
+FCS0302  
+(instalar em 202 3 
+pelo PJ -0601503 ) 
+E 
+FCS030 5 
+(instalar em 202 3 
+pelo PJ -0601503  
+ 
+Tabela 1.4 – Agrupamento dos fornos  por CPU do SDCD (PJ -0601503).  
+FCS0301   
+(já migrado)  FCS0303   
+(já migrado)  FCS0302  
+(2023 ) FCS0304   
+(2023) FCS030 5  
+(2023) 
+BA-4101 BA-4106 BA-4104  BA-4108  BA-4103  
+BA-4102 BA-4107 BA-4105  BA-4109  BA-4110  
+ 
+Será considerada uma folga de 20 % para pontos de entrada e saída em 
+funções de estudos de HAZOP/LOPA e definições de projetos de instrumentação não 
+estarem concluídos. As estimativas da quantidade de pontos apresentadas neste 
+conceitual assumiram as seguintes condições:  
+A configuração dos instrumentos de campo bem como do PLC deverá  seguir 
+o padrão normativo PNE -80-00087, com atenção especialmente à configuração dos 
+ranges de medição válida, sobrerrange, falha e burnout (HI ou LOW) dos 
+equipamentos.  CÓPIA PARA CONSULTA
+ BK-BA01 -04100 -PC-90-00003 Rev. 1 
+ 15/27 
+ 
+ 
+ 
+ 
+ 
+O PLC deverá considerar sinal válido e dentro do range entre 4mA e 20 mA . 
+Para sina is nas faixas de 3,8mA a 4mA e de 20mA a 20,5mA, o sinal dever á ser 
+considerado como válido,  porém saturado, alarmando para operação (variável de 
+processo saturada). Sinais abaixo de 3,6 mA ou acima de 21mA serão considerados 
+como falha de instrumento no P LC, de forma a acionar a atuação deste ponto.  
+Os módulos de entrada do PLC de segurança devem possuir diagnóstico de 
+falha detectada configurado nos seguintes valores:  
+• sinal do transmissor igual ou menor a 3,6 mA (detecção de falha para range 
+inferior);  
+ou 
+• sinal do transmissor igual ou maior a 21 mA (detecção de falha para range 
+superior).  
+Os transmissor es dever ão ser configurado s com os limites máximos de 
+ranges válido s para medição nos valores de 3,8 mA até 20,5 mA, também conhecidos 
+como valores de saturação de range. Estes serão os limites para a saída analógica 
+do transmissor quando a medição estiver fora do range calibrado (zero e span ). Os  
+seguintes valores devem ser utilizados para configuração de detecção de falha dos 
+transmissores:  
+• abaixo de 3,5mA (detecção de falha para range inferior) para os casos onde 
+a atuação ocorra no sentido do aumento do sinal de saída do transmissor; 
+ou 
+• acima de 21,4 mA (detecção de fa lha para range superior) para os casos 
+onde a atuação ocorra no sentido da diminuição do sinal de saída do 
+transmissor.  
+• Os transmissores de pressão de gás devem ter os alarmes de falha acima 
+de 21,4 mA desativados devido a purga destes instrumentos usados na 
+partida do forno, usarem N2 (~7 kg/cm2 ) que possuem valores muito acima 
+dos usados em operação normal. Na folha de dados destes instrumentos 
+deverá conter esta informação.  
+Sinais digitais de nível, pressão, vazão e temperatura foram contabilizados 
+como entradas analógicas, provenientes de transmissores.  
+ Deve ser previsto no projeto  a aquisição de um tablete EX d para execução 
+de gestão de ativos pela equipe de Instrumentação.  
+ Deve ser previsto no projeto básico solução técnica para  sincronização do 
+horário do PLC com o fuso local.   
+CÓPIA PARA CONSULTA
+ BK-BA01 -04100 -PC-90-00003 Rev. 1 
+ 16/27 
+ 
+ 
+ 
+ 
+1.7 DESCRIÇÃO DO SISTEMA PROPOSTO  
+Considera -se que os PJ -0601157 (revamp interlock fornos 01/02/06/07) e PJ -
+0600423 (migração SDCD fornos 01/02/06/07) prepararam toda a estrutura existente 
+para possibilitar a  execução dos PJ -0601420 (revamp interlock fornos 
+03/04/05/08/09/10) e PJ -0601503 (migração SDCD fornos 03/04/05/08/09/10) 
+durante o cronograma de parada geral da CEMAP  II. 
+Nas seções seguintes serão descritos os novos encaminhamentos dos sinais 
+e as modificações que serão realizadas nos armários durante a migração do SIS a 
+relés para os PLC.  
+O projeto deverá avaliar cuidadosamente a alocação dos pontos dos cartões 
+no carrega mento de hardware do PLC, principalmente no caso de interligação com 
+mais de um sistema, onde estes possuam diferentes fontes de alimentação. Por 
+exemplo, houve lições aprendidas em projetos anteriores em relação a forma de 
+interligação interna de pontos c onsecutivos do cartão de DO PLC (ponto comum 
+entre os canais 01 e 02; canais 03 e 04; canais 05 e 06; etc.). Pontos discretos 
+consecutivos só podem ser interligados à sistemas com a mesma alimentação 
+elétrica.  
+As estações de SOE e engenharia serão atualizados para acompanhar as 
+atualizações tecnológicas.  
+ 
+Figura 1.7 – Estações do SOE e engenharia da UO2  
+Por questões de obsolescência os protetores de sobrevelocidade dos 
+compressores deverão ser migrados por modelo com tecnologia mais atual proposta 
+pela Schneider: 8237 -2599 ProTech GII, Panel Mount, HV/HV, Indep Relay, Voted 
+Inputs MATH.  
+ 
+Figura 1.8  – Modelo atual do protetor de sobrevelocidade  
+CÓPIA PARA CONSULTA
+ BK-BA01 -04100 -PC-90-00003 Rev. 1 
+ 17/27 
+ 
+ 
+ 
+ 
+1.8 ARMÁRIOS DE BARREIRAS E DE INSTRUMENTAÇÃO ELETRÔNICA  
+Atualmente os sinais analógicos referentes às variáveis de processo para 
+intertravamento são enviados através de transmissores eletrônicos ou sinais de 
+termopar p ara a sala de controle, onde chegam aos armários EI. Estes armários não 
+serão mais utilizados e, portanto,  serão desativados à medida que seus sinais 
+migrarem para o s novos armários de barreiras de segurança. Dentre os armários 
+escopo deste p rojeto, os EI-CII-101/102/106 e 107  só poderão ser removidos após a 
+migração de todos os fornos . 
+Como os atuais cartões SPEC200 possuem barreiras de segurança intrínseca 
+acopladas, com a eliminação destes dispositivos novos armários de barreiras ativas 
+(isoladores ga lvânicos) da Pepperl+Fuchs serão instalados na sala de controle. 
+Desta forma, os sinais que atualmente chegam do campo para os EI -CII-101/102/106 
+e 107 e os novos sinais analógicos para intertravamento que vierem a ser 
+acrescentados serão encaminhados a um  novo painel de rearranjo e segregados por 
+forno. Os pontos migrados serão interligados a estes novos armários ABS  e os não 
+migrados interligados aos EI -CII-101/102/103 e 108 . Na fase de projeto básico, esse 
+encaminhamento deverá ser confirmado. A Figura 1 .7 ilustra o encaminhamento 
+proposto para este tipo de sinal.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. 1 .9 – Encaminhamento proposto de sinais analógicos de campo para 
+intertravamento  
+As entradas discretas que se tornarão analógicas devido à substituição dos 
+iniciadores por novos transmissores passarão pelas barreiras dispostas nos mesmos 
+armários ABS descrito s anteriormente.  
+As saídas /entradas  discretas sempre retornarão pelo EM, que será reformado 
+para retirar a porta basculante com os relés atuais e ins talar novos bornes na chapa 
+traseira, conforme será descrito no capítulo seguinte.  
+1.9 ARMÁRIOS DE INTERTRAVAMENTO  
+ Estes sinais discretos de intertravamento provenientes do campo, que 
+atualmente vão para os armários EM -CII-101 a 109, 110 a 111 e 112 , continuarão 
+ 
+ 
+Caixa 
+de 
+Junção  
+Painel de 
+Rearranjo  
+EI-CII-
+101/102/106/1
+07 
+EM-CII-101 
+a 109 e 112  
+Novo Painel 
+ABS 
+Novo 
+PLC 
+ 
+Caixa 
+de 
+Junção  
+Sala de Controle  
+ Campo  
+ Campo  
+ Pontos migrados  
+Pontos não  migrados  
+CÓPIA PARA CONSULTA
+ BK-BA01 -04100 -PC-90-00003 Rev. 1 
+ 18/27 
+ 
+ 
+ 
+ 
+seguindo este caminho. As portas basculantes dos painéis de relés acima referidos 
+serão ret iradas, e com elas os relés existentes. Os bornes localizados na chapa 
+traseira serão acrescidos por nova régua de bornes para execução do rearranjo de 
+sinais, que serão interligados ao  PLC por cabos novos. A figura 1 .8 ilustra o 
+encaminhamento proposto pa ra este tipo de sinal.  
+ 
+ 
+ 
+ 
+ 
+Fig. 1 .10 – Encaminhamento proposto de sinais discretos de campo para 
+intertravamento  
+1.10 ARMÁRIOS AUXILIARES  
+Os sinais discretos do CCM seguirão caminho semelhante ao atual. Os 
+armários de componentes auxiliares ACA-CII-106 passarão por reforma para 
+colocação de bornes seccionadores e bornes relés para isolação, nos casos onde 
+não for requerido nenhum grau de classificação SIL. Após estudo de SIL, as malhas 
+onde for requerido algum grau de segur ança deverão ser an alisadas no projeto 
+básico. Embora o ACA -CII-106 contenha muitos sinais referentes aos fornos, 
+recomendamos sua re forma completa na parada de 20 23 para diminuir os riscos nas 
+migrações dos fornos uma vez que neste armário encontram -se sinais da área quente  
+comum aos fornos. A Figura 1.9 ilustra  o encaminhamento proposto para  este tipo de 
+sinal.  
+ 
+Fig. 1 .11 – Encaminhamento proposto de sinais discretos da subestação 
+para intertravamento  
+ 
+As ligações das botoeiras de acionamento na  CUNV  serão diretas ao PLC. A 
+Figura 1 .10 ilustra o encaminhamento proposto para este tipo de sinal.   
+ 
+Fig. 1.12 – Encaminhamento proposto de sinais discretos na CUNV  para 
+intertravamento  
+CÓPIA PARA CONSULTA
+ BK-BA01 -04100 -PC-90-00003 Rev. 1 
+ 19/27 
+ 
+ 
+ 
+ 
+1.11 ARMÁRIOS DE ISOLAÇÃO DE SINAIS DO CAMPO   
+A lógica do  armário  de isolação  EM-CII-123 será transferida para o novo PLC. 
+O EM -CII-123 será painel de passagem e todos os sinais discretos que chegam neste  
+painel irão para o novo PLC . Os sinais para alarme n o SDCD e/ou nas UA  fazem 
+parte do escopo do projeto . Existem também nestes armá rios sinais que vêm do CCM 
+pelo EM-CII-114 e são encaminhados para sinalizações em painéis locais. Estes 
+sinais também fazem parte do escopo.  Assim como o painel RCK -SC1051 -04 
+(Concentrador do Pa inel Digital de Alarmes) existente, deverá ser confirmado durante 
+projeto básico  a necessidade de outro painel.  
+1.12 GENERALIDADES  
+Após a execução destas modificações na parada, a arquitetura do sistema de 
+intertravamento ficará conforme a figura a seguir  no final do projeto : 
+ 
+Fig. 1.13 – Arquitetura proposta do SIS  
+ Rearranjo  123 106 114 
+CÓPIA PARA CONSULTA
+ BK-BA01 -04100 -PC-90-00003 Rev. 1 
+ 20/27 
+ 
+ 
+ 
+ 
+Com a eliminação dos EI  ao longo do tempo  e novo painel de rearranjo,  
+admitindo a majoração da quantidade de pontos proposta nas premissas (entradas 
+discretas nos EM vindas do s EI que se tornam analógicas)  formou -se o quantitativo 
+preliminar apresentado na Tabela 1 .5 abaixo. Esta estimativa será usada como 
+referência para p revisão do hardware necessário e procedimentos  envolvidos para 
+instalação do mesmo e deve ser confirmada durante o projeto básico e 
+principalmente no detalhamento.  
+Tab. 1.5 – Quantitativo preliminar  
+Área  AI AI – Termopar  DI DO DO Relay  
+BA-4103  11 04 28 100  
+BA-4104  11 04 28 100  
+BA-4105  11 04 28 100  
+BA-4108  11 04 28 100  
+BA-4109  11 04 28 100  
+BA-4110  11 04 28 100  
+Com a substituição dos armários de Relés por PLC, uma malha típica ficará 
+representada da seguinte forma:  
+ 
+Esta configuração promove uma redução significativa dos pontos de conexão 
+e componentes do sistema, reduzindo -se dessa forma o potencial de falhas.  
+No PLC existem dois tipos de saídas digitais (DO): a DO Relay que é 
+alimentada por fonte externa (32 canais) e a DO que alimenta o elemento final (16 
+canais). O projeto básico deverá confirmar o tipo de DO que deve ser recomendada 
+para cada saída.  
+Todas as solenoides que são comandadas pelo PLC deverão ser substituídas 
+para ficarem compatíveis com a alimentação elétr ica (24 Vdc).  
+ 
+CÓPIA PARA CONSULTA
+ BK-BA01 -04100 -PC-90-00003 Rev. 1 
+ 21/27 
+ 
+ 
+ 
+ 
+1.13 ESTRATÉGIA DE IMPLANTAÇÃO  
+A substituição do SIS ocorrerá ao longo parada geral da CEMAP II, conforme 
+orientação a  seguir : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. 1.14 – Encaminhamento proposto de sinais de campo para intertravamento  
+ 
+Ao final da migração, os painéis EI-CII-101/102/106/107 serão desativado s e 
+removido s. Serão removidos na parada de 2023.  
+Antes da parada geral , todo gabinete  de PLC deverá  passar pelas fases de 
+montagem e testes de fábrica (TAF). Depois de concluída toda a interligação, 
+deverão ser realizados  testes de campo.  
+Em função da retirada dos relés e implanta ção dos PLC , será necessário 
+alterar o cabeamento e a disposição de armári os. Todos os armários de 
+intertravamento serão reformados: as portas basculantes com chaves de bypass  e 
+relés serão removidas e as réguas de bornes da chapa traseira serão acrescidas por 
+nova régua de bornes para execução do rearranjo de sinais. Estes cont atos serão 
+interligados aos PLC por novos multicabos.  
+As interligações dos armários CA  serão desfeitas e os mesmos removidos. 
+Os sinais serão enviados via comunicação para o SDCD e sinalizadas no Pan Alarme  
+que tem seu escopo no PJ -0602217 . Por já possuir um sistema gerenciador de 
+eventos (SOE), o PLC permitirá também a remoção dos armários SEQ, onde se 
+localizam os cartões do registrador de eventos.  
+A interligação dos sinais de entrada aos bornes das ABS de verá obedecer à 
+mesma ordem das caixas de junção (JB). A saída das barreiras seguirá a ordem de 
+interligação dos cartões do PLC, com a finalidade de facilitar a interligação dos novos 
+multicabos que serão lançados dos armários EM aos PLC.  
+O projeto básico deverá examinar o porão de cabos da sala de racks para 
+determinar a possibilidade de se construir o suporte aos PLC e já fixá -los ainda em 
+fase de pré parada. Todos os testes de aceitação dos PLC deverão ser efetuados 
+previamente.  
+ 
+Caixa de 
+Junção  
+Painel 
+de 
+Rearranj
+o 
+EI-CII-
+101/102/106/1
+07 
+EM-CII-
+101/109 e 
+112 
+Novo Painel 
+ABS 
+Novo 
+PLC 
+ 
+Caixa 
+de 
+Junção  
+Sala de Controle  
+ Campo  
+ Campo  
+ Pontos migrados  
+Pontos não migrados  
+CÓPIA PARA CONSULTA
+ BK-BA01 -04100 -PC-90-00003 Rev. 1 
+ 22/27 
+ 
+ 
+ 
+ 
+1.14 BENEFÍCIOS QUALITATIVOS E QUANTITATIVOS  
+O referido projeto é economicamente viável pelas seguintes justificativas:  
+• Cada cartão possui em média mais de 50 componentes eletrônicos 
+tais como capacitores, circuitos integrados, resistores, diodos, bobinas 
+etc, com mais de 18 anos de f abricação e sujeitos à falha por final de 
+vida útil.  
+• Documentação técnica desatualizada e de baixa qualidade visual, 
+dificultando o diagnóstico de problemas e consequentemente do 
+retorno de equipamentos e/ou sistemas à operação.  
+• Dificuldade de acesso inter no aos armários onde estão localizados os 
+relés de intertravamento, devido ao sobre carregamento de cabos e 
+borneiras, o que poderá exigir da manutenção um tempo maior para 
+localizar o defeito.  
+• Circuitos de proteção de um mesmo equipamento em diversos 
+armá rios de relés (uma parte do circuito num determinado rack EM e 
+outra parte em outro), compartilhando os inconvenientes citados nos 
+itens anteriores.  
+• A transferência das funções lógicas para o PLC contribui para resolver 
+estes problemas pois cria uma nova d ocumentação e elimina os 
+armários de relés e armários SPEC 200. Além disto, a fiação utilizada 
+entre relés para fazer a lógica é eliminada pois passa a ser virtual, 
+através de lógica de configuração via software.  
+• Devido à complexidade do circuito de intert ravamento, aliado aos fatos 
+relacionados acima, a manutenção destes sistemas poderá demandar 
+algumas horas para que o problema seja resolvido, e 
+consequentemente teremos a parada da unidade com perda de 
+produção.  
+No projeto b ásico todas as possibilidades levantadas neste conceitual 
+deverão ser consideradas e aprofundadas.  
+ 
+2. INFORMAÇÕES GERAIS DE ENGENHARIA  
+2.1 CARACTERISTICAS DOS EQUIPAMENTOS  
+O PLC TMR Triconex deverá ser adquirido com antecedência mínima de oito 
+meses, de forma a não comprometer o processo de TAF e execução durante a 
+parada geral da CEMAP  II a ser realizada em 2023.   
+A identificação dos pontos à ser em migrados deverá ser consolidada . 
+ CÓPIA PARA CONSULTA
+ BK-BA01 -04100 -PC-90-00003 Rev. 1 
+ 23/27 
+ 
+ 
+ 
+ 
+2.2 LAYOUT/LOCALIZAÇÃO DE EQUIPAMENTOS  
+O novo layout da sala de racks da casa de controle da CEMAP II deverá ser 
+desenvolvido conforme detalhado no PJ -0600765 . O projeto básico deverá reti -
+ratificar o layout emitido no sistem a. 
+2.3 CONDIÇÕES AMBIENTAIS  
+Os gabinetes deverão ser montados no interior da Sala de Rack s da UO -II 
+onde já existem as condições ambientais necessárias a este tipo de equipamento. 
+Os gabinetes deverão possuir os seguintes requisitos:  
+• Proteção a Temperatura e umidade conforme item A1 da Norma ISA 
+S.71.01 . 
+• Proteção contra pó IP -51 conforme norma ABNT.  
+• Proteção contra corrosão conforme item G1 da Norma ISA S71.04.  
+2.4 ESTUDOS DE RISCO (HAZOP/FMEA/APP/LOPA)  
+Deverá ser implantado os  estudos das malhas que serão implementadas no 
+sistema de segurança e no SDCD . 
+Deverá ser utilizado o LOPA do PJ -0600765 (também utilizado como 
+referência pelo PJ -0601157), sendo reti -ratificado para os fornos tratados neste 
+conceitual.  
+2.5 CONSIDERAÇÕES FINAI S 
+Este conceitual avaliou todas as modificações que deverão ocorrer para a 
+migração do Sistema de Intertravamento de Segurança dos fornos  da planta de 
+Olefinas II da Q1-BA. No projeto b ásico todas as possibilidades levantadas neste 
+conceitual deverão ser c onsideradas e aprofundadas.  
+ 
+3. INFORMAÇÕES DE REVISÕES  
+3.1 REGISTRO DAS EMISSÔES DAS REVISÕES DO PROJETO CONCEITUAL  
+REV. DATA  DESCRIÇÃO  EMITENTE  APROV.  
+0 31/03/2021  Emissão inicial.  Camila 
+Cancio  Alexandre 
+Marinho  
+1 11/11/2021  Comentários TR -2 Camila 
+Cancio  Fábio 
+Magalhães  
+     
+ 
+ CÓPIA PARA CONSULTA
+ BK-BA01 -04100 -PC-90-00003 Rev. 1 
+ 24/27 
+ 
+ 
+ 
+ 
+ANEXO I  
+ 
+Tabela 1 - LISTA DE VERIFICAÇÃO DO PROJETO CONCEITUAL  
+Verificado  por: CAMILA CÂNCIO  Data: 31/03/2021  
+Função: Eng. Automação  Mat.:  23559  Assinatura:  
+1. GERAL  OK N.A. 
+1.1 Analisar alternativas para atingir o objetivo sem modificação na planta.  X  
+1.2 Desenvolvimento do projeto Conceitual  X  
+ A) CONCEITUAL TIPO III   
+1. INFORMAÇÕES GERAIS DO PROJETO  
+  
+✓ OBJETIVO DO PROJETO  X  
+✓ DEFINIÇÕES E ABRAVIATURAS  X  
+✓ DOCUMENTOS DE REFERÊNCIA  X  
+✓ FINALIDADE DO PROCESSO  X  
+✓ DESCRIÇÃO DO EQUIPAMENTO / SISTEMA  X  
+✓ BASES E PREMISSAS  X  
+✓ ESTRATÉGIA DE IMPLANTAÇÃO  X  
+✓ BENEFÍCIOS QUALITATIVOS E QUANTITATIVOS  X  
+2. INFORMAÇÕES GERAIS DE ENGENHARIA  
+  
+✓ REQUISITOS DE AUTOMAÇÃO  X  
+✓ DESCRIÇÃO BÁSICA DO SISTEMA DE CONTROLE E AUTOMAÇÃO  X  
+✓ DIAGRAMAS DE BLOCOS DO SISTEMA DE AUTOMAÇÃO  X  
+✓ LISTA DE EQUIPAMENTOS E SOFTWARE  X  
+✓ CLASSE DOS EQUIPAMENTOS, SISTEMAS E INSTRUMENTOS  X  
+✓ ESTIMATIVAS DE PONTOS DE I/O  X  
+✓ LAYOUT / LOCALIZAÇÃO DE EQUIPAMENTOS  X  
+✓ HIGIENE E SEGURANÇA/MANUSEIO DE PRODUTOS  X  
+✓ ANÁLISE DE RISCOS  X  
+ANEXO 2  
+ 
+PR-0603 -00021 – ETAPAS DE ANÁLISE DE RISCO PARA MODIFICAÇÕES 
+DE PROCESSO OU NA INSTALAÇÃO  
+ 
+Tabela 2 – Lista de Verificação  
+ITEM  PERGUNTA  SIM NÃO  
+ASPECTO: PRODUTOS PERIGOSOS E CONDIÇÕES DE PROCESSO  
+1.  Representa aumento nos inventários de produtos perigosos manuseados no sistema (na área física onde está 
+sendo realizada a modificação)?   X 
+2.  Introduz novos produtos químicos no processo, nova mistura de produtos indesejados ou reações químicas 
+perigosas no sistema?   X 
+3.  Altera as características fisico -químicas que afetem toxidez ou inflamabilidade dos produtos de processo?   X 
+4.  Altera a estabilidade das reações químicas que ocorrem durante o processo?   X 
+5.  Representa alteração nos parâmetros de processo (condições de pressão, temperatura, vazão, nível, 
+concentração) fora dos limites pré -estabelecidos para os sistemas?   X 
+6.  Existe a possibilidade de mistura indesejável entre produtos e/ou utilidades, em situa ções normais ou anormais?   X 
+7.  Existe a possibilidade de ocorrerem reações químicas perigosas em situações operacionais anormais?   X 
+8.  Altera tubulações e alinhamentos existentes na instalação?   X 
+9.  Permite a conexão de sistemas ou equipamentos em diferentes pressões, em situações normais ou anormais?   X CÓPIA PARA CONSULTA
+ BK-BA01 -04100 -PC-90-00003 Rev. 1 
+ 25/27 
+ 
+ 
+ 
+ 
+ITEM  PERGUNTA  SIM NÃO  
+10.  Introduz ou altera qualquer causa potencial de sobrepressão (entupimento ou bloqueio indevido de tubulações ou 
+equipamentos, por exemplo) no sistema ou parte do sistema?   X 
+11.  Introduz ou altera qualquer causa potencial de subpressão / vácuo no sistema ou parte do sistema?   X 
+12.  Afeta as condições de segurança em caso de falha de válvulas (falha segura) do sistema?   X 
+13.  Possibilita a ocorrência de fluxo reverso de produto no sistema ou parte dele?   X 
+14.  Possibilita a formação de atmosfera / mistura explosiva no sistema ou parte dele?   X 
+    
+Se sim para pelo menos uma das perguntas acima, obrigatório  realizar HAZOP para a modificação.  
+15.  Insere ou altera a localização de pontos potenciais de vazamentos de fluídos tóxicos e/ou inflamáveis (drenos, 
+vents, bocas de visita, flanges e outros)?   X 
+16.  Altera acessórios na instalação?   X 
+17.  Introduz ou remove válvulas de by -pass ?   X 
+18.  Dificulta a possibilidade de existência de drenagens, vents ou isolamentos?   X 
+Se sim para pelo menos uma das perguntas acima, recomendável  realizar HAZOP ou APP de Processo  para a modificação, ou justificar a não 
+realização desta análise com base em parecer técnico da modificação.  
+19.  Há incompatibilidade entre produto e revestimento de tubulações, tanques e equipamentos do sistema?   X 
+20.  Representa alteração nas condições de ensaios ou testes de processo dos sistemas existentes na instalação?   X 
+21.  Afeta as características das válvulas de s egurança ou quebra -vácuo já existentes no sistema?   X 
+22.  Exige o posicionamento de válvulas manuais em locais de rápido acesso?   X 
+23.  Exige alteração no mapa de raquetes?   X 
+24.  Aumenta ou gera eletricidade estática no sistema?   X 
+25.  Há necessidade de aterramento?  X  
+26.  Introduz alterações ou novos procedimentos de partida, parada ou emergências operacionais?  X  
+    
+Se sim para pelo menos uma das perguntas acima, ações corretivas deverão ser propostas . 
+27.  Altera ou introduz novas rotinas de operação?  X  
+28.  Altera ou introduz procedimentos de liberação de equipamentos e/ou sistema para manutenção?   X 
+    
+Se sim para pelo menos uma das perguntas acima, recomendável  realizar AST para as novas rotinas / procedimentos.  
+ASPECTO: INSTRUMENTAÇÃO E SISTEMAS DE INTERTRAVAMENTO  
+29.  Altera algum instrumento relacionado com os intertravamentos existentes?  X  
+30.  Altera a sequência  lógica de controle do equipamento ou sistema?   X 
+    
+Se sim para pelo menos uma das perguntas acima, obrigatório  realizar HAZOP para a modificação.  
+31.  Altera range de instrumentos dos sis temas de controle já existentes ?  X 
+32.  Inclui, exclui ou altera instrumentos?   X 
+33.  Altera o CV de válvulas?   X 
+34.  Introduz, excluiu ou altera alarmes do sistema?  X  
+    
+Se sim para pelo menos uma das perguntas acima, recomendável  realizar HAZOP para a modificação, ou justificar a não realização desta análise 
+com base em parecer técnico da modificação.  
+35.  Altera set – point de controle de instrumentos?   X 
+36.  Altera algum instrumento relacionado com os algoritmos  (programa de cálculo) existentes ?  X 
+    
+Se sim para pelo menos uma das perguntas acima, ações corretivas deverão ser propostas . 
+37.  Altera ou introduz intertravamentos?  X  
+    
+Se sim para pergunta acima, obrigatório  realizar Estudo de SIL para a modificação.  
+38.  Remove intertravamentos?   X 
+    
+Se sim para pelo menos uma das perguntas acima, obrigatório  realizar Estudo de LOPA para a modificação, ou justificar a não realização desta 
+análise com base em parecer técnico da modificação.  
+ASPECTO:  EQUIPAMENTOS  
+39.  Representa alteração na estrutura física do equipamento?   X 
+40.  Altera especificação de equipamentos ou componentes?   X 
+41.  Representa alteração nos parâmetros operacionais do equipamento (vibração, rotação, torque, degaste, pressão, 
+temperatura, vazão)?   X CÓPIA PARA CONSULTA
+ BK-BA01 -04100 -PC-90-00003 Rev. 1 
+ 26/27 
+ 
+ 
+ 
+ 
+ITEM  PERGUNTA  SIM NÃO  
+42.  Representa alteração no material construtivo, de revestimento, pintura ou isolamento do equipamento (teste 
+hidrostático, raio X, alívio de tensões, líquido penetrante e outros) ?   X 
+43.  Altera a condição de inspeção ou manutenção do equipamento?   X 
+44.  A classificação da área é alterada?   X 
+45.  Altera a classe de pressão do equipamento (NR -13)?  X 
+    
+Se sim para pelo menos uma das perguntas acima, recomendável  realizar HAZOP ou APP de Processo  para a modificação, ou justificar a não 
+realização desta análise com base em parecer técnico da modificação.  
+ASPECTO:  NOVOS EQUIPAMENTOS  
+46.  O material do novo equipamento é incompatível com o fluido a ser processado/ armazenado?   X 
+47.  Há necessidade de novos intertravamentos?   X 
+48.  O novo equipamento está inadequado à classificação da área?   X 
+49.  Representa necessidade de adequação à NR -13?  X 
+50.  Introduz novas rotinas operacionais?   X 
+51.  Exige nova condição de inspeção ou manutenção?   X 
+    
+Se sim para pelo menos uma das perguntas acima, recomendável  realizar HAZOP ou APP de Processo  para a modificação, ou justificar a não 
+realização desta análise com base em parecer técnico da modificação.  
+52.  Altera a suportação de equipamentos ou tubulações ?   X 
+    
+Se sim para pelo menos uma das perguntas acima, ações corretivas deverão ser propostas . 
+ASPECTO: EDIFICAÇÕES  
+53.  Representa alterações em edificações (prédios que afetam a operação, prédios que contenham cabos ou fiação 
+elétrica que interfiram na operação)?  X  
+54.  Representa alterações ambientais que possam interferir nas condições operacionais de sistemas de controle de 
+processos (SDCD / PLC) ocasionando parada ou comprometimento das funções executadas pelo mesmo?  X  
+    
+Se sim para pelo menos uma das perguntas acima, recomendável  realizar HAZOP ou APP de Processo  para a modificação, ou justificar a não 
+realização desta análise com base em parecer técnico da modificação.  
+ASPECTO: ADMINISTRATIVO  
+55.  Altera o número de funcio nários envolvidos com a operação dos sistemas?   X 
+    
+Se sim para pelo menos uma das perguntas acima, recomendável  realizar HAZOP ou APP de Processo para a modificação, ou justificar a não 
+realização desta análise com base em parecer técnico da modificação.  
+56.  Representa alteração na localização de um número considerável de pessoas dentro da área da empresa (por 
+exemplo, aumento do número de pessoas presentes em sala de controle ou prédios administrativos)?   X 
+57.  Representa alteração na localização de prédios administrativos ou outras edificações onde haja possibilidade de 
+concentração de pessoas?   X 
+    
+Se sim para pelo menos uma das perguntas acima, recomendável  proceder com APP para a modificação, avaliar a modificação com base nos 
+resultados da análise de vulnerabilidade  dos cenários de acidentes identificados na unidade / instalação, e caso necessário, revisar a Análise 
+Quantitativa de Riscos  (AQR) da unidade / instalação., ou justificar a não realização destas análises com base em parecer técnico da modificação.  
+58.  Necessita de integrante não ambientados com a área?   X 
+59.  Necessita de relocação de funcionários de área?   X 
+    
+Se sim para pelo menos uma das perguntas acima, ações corretivas deverão ser propostas . 
+ASPECTO: EFLUENTES LÍQUIDOS, RESÍDUOS SÓLIDOS E EMISSÕES GASOSAS  
+60.  Gera emissão de novos efluentes líquidos, emissões gasosas ou residuos sólidos para o meio ambiente?   X 
+61.  Há necessidade de se incluir novos agentes químicos na FISPQ – Folha de Informação de Segurança do Produto 
+Químico, em função da modificação?   X 
+    
+Se sim para pelo menos uma das perguntas acima, obrigatório  realizar APP de Processo e revisar IAAI  para a modificação.  
+62.  Aumenta a geração de efluentes líquidos (orgânicos/inorgânicos), resíduos sólidos ou emissões gasosas?   X 
+63.  Haverá impacto dos efluentes gerados pela modificação nas instalações existentes de tratamento, inclusive na 
+questão de atendimento a esta nova demanda (incluindo sistemas de estabilização e drenagens de efluentes)?   X 
+64.  O impacto (área atingida) pelas em issões gasosas será acima do atual da instalação?   X 
+65.  Altera a capacidade das facilidades de estabilização ou drenagens de efluentes ?   X 
+66.  Altera o sistema de drenagem da instalação (tipo de drenagem, forma de realização, alteração de drenagem 
+aberta para fechada ou vice -versa)?   X 
+67.  Impacta negativamente na qualidade (parâmetros) dos efluentes?   X CÓPIA PARA CONSULTA
+ BK-BA01 -04100 -PC-90-00003 Rev. 1 
+ 27/27 
+ 
+ 
+ 
+ 
+ITEM  PERGUNTA  SIM NÃO  
+    
+Se sim para pelo menos uma das perguntas acima, recomendável  realizar APP de Processo e revisar IAAI  para a modificação, ou justificar a não 
+realização destas análises com base em parecer técnico da modificação.  
+68.  A legislação aplicável impõe restrições ao projeto?   X 
+69.  Está prevista a criação de nova área de armazenamento de resíduos sólidos?   X 
+70.  As emissões gasosas estão fora dos limites permitidos atualmente pela legislação?   X 
+71.  Implica na utilização de recursos naturais, podendo contribuir para o esgotamento destes recursos?   X 
+    
+Se sim para pelo menos uma das perguntas acima, ações corretivas deverão ser propostas . 
+ASPECTO: SEGURANÇA  
+72.  Dificulta ou impossibilita o acesso a equipamentos emergenciais  ou os meios de evacuação da área?   X 
+73.  Exige o aprovisionamento de equipamentos adicionais de segurança e/ou emergência?   X 
+74.  Aumenta riscos de acidentes pessoais na operação do equipamento/sistema?   X 
+75.  Afeta os sistemas de segurança (flare, rede de incêndio, sprinklers)?   X 
+    
+Se sim para pelo menos uma das perguntas acima, recomendável  realizar APP de Processo para a modificação.  
+76.  Afeta a condição para realização de teste/manutenção de equipamentos emergenciais?   X 
+77.  Altera o Plano de Ação de Emergência ou Plano de Contingência da área?   X 
+78.  Afeta iluminação de emergência?   X 
+79.  Afeta a condição para realização de teste/manutenção de equipamentos emergenciais   X 
+Se sim para pelo menos uma das perguntas acima, ações corretivas deverão ser propostas . 
+ASPECTO: SAÚDE OCUPACIONAL/ERGONOMIA  
+80.  Aumenta exposição pessoal ao ruído ( frequência , nível de ruído ou tempo de exposição), em relação á exposição 
+atual?   X 
+81.  Aumenta exposição pessoal a agentes químicos em situação normal ou anormal, em relação à exposição atual?   X 
+82.  Aumenta contato pessoal com produtos perigosos, em situação normal ou anormal, distintos dos 
+utilizados/empregados/manuseados atualmente?   X 
+83.  Aumenta exposição a temperaturas extremas (calor ou frio), acima dos limites atuais?   X 
+84.  Aumenta exposição a poeira, acima dos limites atuais?   X 
+85.  Aumenta exposição a radiações ionizantes ( frequência , nível de radiação ou tempo de exposição), em relação à 
+exposição atual?   X 
+86.  Aumenta exposição a poeira ( frequência , concentração ou tempo de exposição), em relação à exposição atual?   X 
+87.  Implica em atividade que demande esforço físico excessivo, superior ao atual e do limite estabelecido pela 
+legislação?   X 
+88.  Implica em atividade que demande esforço físico repetitivo, superior ao atual e do limite estabelecido pela 
+legislação?   X 
+89.  Implica em atividade que exija postura ergonômica inadequada?   X 
+    
+Se sim para pelo menos uma das perguntas acima, obrigatória a revisão do IAAI, PPRA e PCMSO com base na modificação.  
+ASPECTO: MANUTENÇÃO  
+90.  Dificulta o acesso para manutenção no equipamento ou outros interligados?   X 
+91.  Altera os produtos químicos utilizados para manutenção do equipamento ou outros interligados?   X 
+92.  Aumenta a frequência  de manutenção?   X 
+93.  Altera procedimentos de manutenção existentes?   X 
+94.  Introduz novos procedimentos de manutenção?   X 
+95.  Aumenta exposição aos riscos (lesões, queimaduras) do pessoal de manutenção?   X 
+96.  Prevê a utilização de EPIs distintos dos atuais?   X 
+97.  Prevê a utilização de ferramentas distintas das atuais?   X 
+    
+Se sim para pelo menos uma das perguntas acima, recomendável  elaborar AST e revisar IAAI, PPRA e PCMSO para as novas rotinas / 
+procedimentos.  
+  CÓPIA PARA CONSULTA

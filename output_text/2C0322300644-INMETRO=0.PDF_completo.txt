@@ -1,0 +1,1017 @@
+ 
+TAG:
+TÍTULO:PROJETO: PJ-0602565 PLANTA: BA01-02
+XV-441054 ÁREA: 4400CERTIFICADO INMETRONº2C0322300644-INMETRO
+BRASKEM FOLHA: 01 a17
+DOC. FORNECEDOR N°
+NILO FERNANDES GIRON / CREA-SP: 0527090 2C0322300644
+ÍNDICE DE REVISÕES
+REV. DESCRIÇÃO E/OU FOLHAS ATINGIDASENGENHARIA VÁLVULA ON-OFFCENTRO 
+LOGÍSTICOBA01 - 
+UNIB-BA
+FLOWSERVE LTDARAZÃO SOCIAL FORNECEDOR: PEDIDO DE COMPRA N°
+FLOWSERVE DO BRASIL LTDA 4503649776
+ENG. RESP. / CREA N°:
+0 EMISSÃO ORIGINAL - PARA INFORMAÇÃO.
+PLANTA: BA01-02; ÁREA: 4400;
+PROJETO: PJ-0602565;
+NÚMERO DO PJ: 10002-6255-I26-4-00004;
+NÚMERO DA RM: BK-BA01-04400-RM-81-00116_00000;PEDIDO DE COMPRA: 4503649776;ITEM: 00010;TAG: XV-441054.
+REV. 0 REV. A REV. B REV. C REV. D REV. E REV. F REV. G REV. H
+DATA 18/09/2023
+PJ-0602565
+LBPROJETO
+EXECUÇÃO
+VERIFICAÇÃO
+APROVAÇÃO NGVG
+  
+ 
+CERTIFICADO DE CONFORMIDADE  
+CERTIFICATE OF CONFORMITY  
+ 
+Certificado No. /  Certificate No.  UL-BR 12.0005X  
+Certificado de Conformidade válido somente acompanhado das páginas de:  
+Certificate of Conformity valid only with the following pages:  1 a 9 
+Emissão  / Date of issue  13 de janeiro de 2012 / January 13, 2012  
+Revisão  / Revision Date  27 de setembro de 2021 / September 27, 2021  
+Validade  / Expire date  12 de janeiro de 202 4 / January 12, 2024    
+ 
+ 
+Organismo de Certificação /  
+Certification Body  UL do Brasil Certificações  
+Avenida Engenheiro Luis Carlos Berrini, 105 – 24° andar  
+04571 -010 – Brooklin – São Paulo – SP – Brasil  
+Página / Page  1/9                                                                                             41-IC-F0400 rev. 1 8.0
+  
+Solicitante / Applicant  
+ ASCOVAL INDUSTRIA E COMERCIO LTDA.  
+Rua Goiatuba nº 81 - Jardim Mutinga – Barueri – SP - 06465 -300 - Brasil  
+CNPJ: 43.021.906/0001 -03 
+Audit File: A28378 (date 2021 -03-17) 
+  
+FILE#/VOL.#/SEC.#  BR2053/Vol.1/Sec.7  
+  
+Local de Montagem  / Assembly Location  Não aplicável  / Not applicable  
+  
+Importador  / Importer  Não aplicável  / Not applicable  
+  
+Marca Comercial / Trademark  Não aplicável  / Not applicable  
+  
+Produto Certificado / Certified Product  Operador de Válvula Solenóide  
+Solenoid Valve Operator  
+  
+Modelo / Model  EM-M... 
+  
+Lote ou Número de Série / Lot or Serial Number  Não aplicável  / Not applicable  
+  
+Marcação / Marking  Ex eb mb IIC T3...T6 Gb  
+Ex tb IIIC T85ºC...T200ºC Db  
+* Ver Tabela 1 abaixo para detalhes das temperaturas  
+* See Table 1 below for temperature details  
+  
+Normas Aplicáveis  / Applicable  Standards  ABNT NBR IEC 60079 -0:2013  
+ABNT NBR IEC 60079 -7:2018  
+ABNT NBR IEC 60079 -18:2020  
+ABNT NBR IEC 60079 -31:2014  
+  
+Programa de certificação ou Portaria /  
+Certification Program or Ordinance  Portaria s no. 179, de 18 de maio de 2010  e nº. 89 de 23 de fevereiro de 2012  do 
+INMETRO  
+INMETRO Ordinances  nº 179 as of May 18, 2010  and nº 89 as of Feb 23, 2012.  
+  
+Concessão Para /  Concession for  Ostentar o Selo de Identificação da Conformidade do Sistema Brasileiro de 
+Avaliação da Conformidade (SBAC) sobre o(s) produto(s) relacionado(s) neste 
+certificado.  
+Bearing the Conformity Identification Seal of the Brazilian System of Conformity (SBAC) on the product 
+covered by this certificate.  
+  
+  
+Pedro Mottola  
+Program Owner  UL do Brasil Certificações, organismo acreditado pela Coordenação Geral de 
+Acreditação do INMETRO – CGCRE, segundo o registro No.: OCP -0029 confirma 
+que o produto está em conformidade com a(s) Norma(s) e programas ou Portarias 
+acima descritas.  
+UL do Brasil Certificações , Certification Body accredited by Coordenação Geral de Acreditação do 
+INME TRO - CGCRE according to the register No.: OCP -0029 confirms that the product is in 
+compliance with the standards and certification Program or Ordinance  above mentioned.  
+  
+  
+ 
+CERTIFICADO DE CONFORMIDADE  
+CERTIFICATE OF CONFORMITY  
+ 
+Certificado No. /  Certificate No.  UL-BR 12.0005X  
+Certificado de Conformidade válido somente acompanhado das páginas de:  
+Certificate of Conformity valid only with the following pages:  1 a 9 
+Emissão  / Date of issue  13 de janeiro de 2012 / January 13, 2012  
+Revisão  / Revision Date  27 de setembro de 2021 / September 27, 2021  
+Validade  / Expire date  12 de janeiro de 202 4 / January 12, 2024    
+ 
+ 
+Organismo de Certificação /  
+Certification Body  UL do Brasil Certificações  
+Avenida Engenheiro Luis Carlos Berrini, 105 – 24° andar  
+04571 -010 – Brooklin – São Paulo – SP – Brasil  
+Página / Page  2/9                                                                                             41-IC-F0400 rev. 1 8.0
+  Fabricante  / Manufacturer  
+ ASCOVAL INDUSTRIA E COMERCIO LTDA.  
+Rua Goiatuba nº 81 - Jardim Mutinga – Barueri – SP - 06465 -300 - Brasil  
+CNPJ: 43.021.906/0001 -03 
+Audit File: A28378 (date 2021 -03-17) 
+ 
+ 
+ Emerson Automation Fluid Control & Pneumatics Poland Sp. z o. o.  
+Ul. Kurczaki 132 - Lodz - PL 93 -331 Poland  
+CNPJ: Não Aplicável / Not Applicable   
+Audit File: A28906 (date 2020 -10-29) 
+ 
+MODELO DE CERTIFICAÇÃO / CERTIFICATION MODEL:  
+ 
+☒ Modelo com Avaliação do Sistema de Gestão da Qualidade do Processo de Produção do Produto e Ensaios no Produto  
+Quality Management System Evaluation of the Product  Production Process and Product Test Model  
+☐ Modelo Ensaio de Lote  
+Lot Test Model  
+ 
+ 
+CÓDI GO DE BARRAS GTIN / GTIN BAR CODE:  
+ 
+Não aplicável / Not applicable . 
+ 
+ 
+DESCRIÇÃO DO PRODUTO / PRODUCT DESCRIPTION:  
+ 
+Operador de Válvula Solenóide modelo EM -M... utilizado na ação de empurrar ou puxar quando montado com uma válvula. As 
+diferenças nos modelos referem -se ao tamanho, tensão nominal e potência.  
+Proteção do equipamento fornecida: Ex mb para o c onjunto interno da bobina e Ex eb para o invólucro externo e compartimento de 
+conexão. O equipamento possui tipo de proteção Ex tb para uso em ambientes com poeira.  
+ 
+Faixa de temperatura ambiente: -40°C até +7 5°C 
+Faixa de temperatura média: -40°C até +75°C  
+ 
+A faixa de temperatura ambiente real está dentro desses limites, depende do tipo e da classificação de potência e será marcada 
+quando for diferente de -20°C até +40°C.  
+ 
+ 
+Solenoid Valve Operator type EM -M… to be used for pushing or pulling valve action wi th mounted valve. Differences in models concern size, rated voltage and power.  
+Equipment protection provided: Ex mb for the internal bobbin assembly and Ex eb for the outer enclosure and connection compar tment. The equipment is also Ex tb for 
+use in dust e nvironments.  
+ 
+Ambient temperature range: -40°C to +70°C  
+Medium temperature range: -40°C to +75°C  
+ 
+The actual temperature range is within these limits, is depending on the type and power rating and will be marked when it dif fers from -20°C to +40°C.  
+ 
+ 
+    
+ 
+CERTIFICADO DE CONFORMIDADE  
+CERTIFICATE OF CONFORMITY  
+ 
+Certificado No. /  Certificate No.  UL-BR 12.0005X  
+Certificado de Conformidade válido somente acompanhado das páginas de:  
+Certificate of Conformity valid only with the following pages:  1 a 9 
+Emissão  / Date of issue  13 de janeiro de 2012 / January 13, 2012  
+Revisão  / Revision Date  27 de setembro de 2021 / September 27, 2021  
+Validade  / Expire date  12 de janeiro de 202 4 / January 12, 2024    
+ 
+ 
+Organismo de Certificação /  
+Certification Body  UL do Brasil Certificações  
+Avenida Engenheiro Luis Carlos Berrini, 105 – 24° andar  
+04571 -010 – Brooklin – São Paulo – SP – Brasil  
+Página / Page  3/9                                                                                             41-IC-F0400 rev. 1 8.0
+  Tabela 1  - Relação entre classe de temperatura, máxima temperatura "T" de superfície do invólucro, temperatura do ambiente e 
+meio, mínima temperatura do cabo e potência nominal.  
+Table 1  - Relation between temperature class, the maximum surface temperature "T" of the enclosure, the ambient and medium temperature,  minimum cable temperature 
+and the rated power.  
+ 
+ 
+Modelo / Type EM-M6 EM-MXX  EM-M12 I  EM-M12 II  
+Classe de 
+Temperatura  
+Temperatu re 
+Class  Máxima 
+Temperatura 
+de superfície 
+"T" 
+Maximum surface 
+Temperature "T"  
+[°C] Temperatura 
+Ambiente / Meio  
+Ambient / Medium 
+Temperature  
+[max., °C]  Potência Nominal  
+Nominal Power  
+ [max., W]  Potência Nominal  
+Nominal Power  
+ [max., W]  Potência Nominal  
+Nominal Power  
+  [max., W]  Potência 
+Nominal  
+Nominal Power  
+  [max., W]  
+Operação em CA somente  / AC Operation Only  
+T3 200 40 9,2 11,0 13,2 13,5 
+65 7,0 8,4 8,6 7,7 
+CC ou CA (retificada)  / DC or AC ( rectified ) 
+T3 200 40 12,5 13,0 16,0 19,9 
+65 8,7 9,4 9,2 10,2 
+T4 135 40 7,0 7,7 9,0 11,3 
+75 3,7 3,8 4,4 6,0 
+T5 100 40 3,7 3,8 4,4 6,0 
+55 2,3 2,6 3,0 3,9 
+75 1,0 1,1 1,3 1,6 
+T6 85 40 2,3 2,6 3,0 3,9 
+60 1,0 1,1 1,3 1,6 
+ 
+    
+ 
+CERTIFICADO DE CONFORMIDADE  
+CERTIFICATE OF CONFORMITY  
+ 
+Certificado No. /  Certificate No.  UL-BR 12.0005X  
+Certificado de Conformidade válido somente acompanhado das páginas de:  
+Certificate of Conformity valid only with the following pages:  1 a 9 
+Emissão  / Date of issue  13 de janeiro de 2012 / January 13, 2012  
+Revisão  / Revision Date  27 de setembro de 2021 / September 27, 2021  
+Validade  / Expire date  12 de janeiro de 202 4 / January 12, 2024    
+ 
+ 
+Organismo de Certificação /  
+Certification Body  UL do Brasil Certificações  
+Avenida Engenheiro Luis Carlos Berrini, 105 – 24° andar  
+04571 -010 – Brooklin – São Paulo – SP – Brasil  
+Página / Page  4/9                                                                                             41-IC-F0400 rev. 1 8.0
+  NOMENCLATURA / NOMENCLATURE:  
+ 
+WS   EM   ET   X  8  210   D   095   120/60  
+A       B     C     D  E    F     G    H          I 
+ 
+ 
+Onde/ Where :  
+A Material do Invólucro  
+Enclosure Material  Nenhum/ None – aço zincado (coberto com epoxy)/ zinc plated steel (epoxy coated)  
+WS – aço inoxidável AISI 316 / stainless steel AISI 316 
+B Operador  
+Operator  EM-M6 
+EM-MXX  
+EM-M12-I 
+EM-M12-II 
+C Entrada  
+Entry T– Conduite 1/2” NPT / Conduit 1/2” NPT  
+ET – Adaptador para conduite M20”x1.5 / Conduit adaptor M20”x1.5  
+D Construção especial  
+Special  construction  
+E Tipo de Rosca  
+Thread Type  8 – NPT 
+G – ISO 228/1  
+F Série da Válvula  
+Valve Series  
+G Geração  
+Generation  
+H Modelo  
+Model  
+I Tensão/Frequência  
+Voltage/Frequency  
+ 
+ 
+CARACTERÍSTICAS ELÉTRICAS / ELECTRICAL CHARACTERISTICS : 
+  
+Tensão máxima/ Max.voltage : 250 Vcc/ dc ou/or Vca/ ac. 
+ 
+ 
+CONDIÇÕES ESPEC ÍFICAS DE UTILIZAÇÃO PARA EQUIPAMENTOS Ex ou LISTA DE LIMITAÇÕES PARA 
+COMPONENTES Ex:  
+SPECIFIC CONDITIONS OF USE FOR Ex EQUIPMENT or SCHEDULE OF LIMITATIONS FOR Ex COMPONENTS : 
+ 
+• O solenóide deve ser p rotegido por um fusível devidamente class ificado (1,5 x I nom, mencionado na placa de identificação), 
+capaz de interromper a corrente de curto -circuito potencial.  
+• Se o solenóide for utilizado em um ambiente com poeira, o risco de descarga eletrostática deve ser evitado.  
+• A proteção Ex eb é forneci da por uma caixa de junção integrada com conexões internas de fiação preenchidas em 
+conformidade com Ex eb.  
+• Aperte os parafusos e prensa -cabos com o torque correto, consulte a tabela de torque no manual de instruções. Desencape 
+o isolamento externo do cabo  em aprox. 30 mm e o isolamento dos cabos acima de 8mm.  
+• The solenoid shall be protected by a suitably rated fuse (1.5 x I nom, mentioned on the nameplate), capable of interrupting t he prospective short circuit current.  
+• If the solenoid is used in a dust env ironment, the risk of electrostatic discharge shall be avoided.  
+• Ex eb protection is provided by an integrated junction box with, internal, Ex eb compliant filed wiring connections.  
+• Tighten screws and cable gland with the corre ct torque, see torque chart in manual. Strip the outer insulation of the cable over approx. 30 mm and the insulation 
+from the leads over 8 mm.  
+ 
+    
+ 
+CERTIFICADO DE CONFORMIDADE  
+CERTIFICATE OF CONFORMITY  
+ 
+Certificado No. /  Certificate No.  UL-BR 12.0005X  
+Certificado de Conformidade válido somente acompanhado das páginas de:  
+Certificate of Conformity valid only with the following pages:  1 a 9 
+Emissão  / Date of issue  13 de janeiro de 2012 / January 13, 2012  
+Revisão  / Revision Date  27 de setembro de 2021 / September 27, 2021  
+Validade  / Expire date  12 de janeiro de 202 4 / January 12, 2024    
+ 
+ 
+Organismo de Certificação /  
+Certification Body  UL do Brasil Certificações  
+Avenida Engenheiro Luis Carlos Berrini, 105 – 24° andar  
+04571 -010 – Brooklin – São Paulo – SP – Brasil  
+Página / Page  5/9                                                                                             41-IC-F0400 rev. 1 8.0
+  ENSAIOS DE ROTINA / ROUTINE TESTS:  
+ 
+Os seguintes ensaios de rotina devem ser conduzidos pelo fabricante e serão verificados durante as auditorias conduzidas pela UL:  
+The following routine tests shall be conducted by the manufacturer and will be verified during the audits conducted by UL:  
+ 
+1- De acordo com a ABNT NBR IEC 60079 -7 (Segurança aumentada "e"), ensaio de rigidez dielétrica ap licada por 1 minuto com as 
+seguintes tensões:  
+ 
+a) 500 V R.M.S. %0+5 para equipamentos com tensões que não excedem 90 V pico.  
+ 
+b) (1000 + 2 U) V R.M.S. %0+5 ou 1500 V R.M.S. %0+5, o que for maior, onde U é a tensão de trabalho, para equipamentos que excedem 
+90 V pico.  
+ 
+Alternativamente, o ensaio poderá ser conduzido sob 1.2 vezes a tensão de ensaio dado acima, mas mantida por pelo menos 100 
+ms. 
+ 
+Tensões de ensaio em CC são permitidas como alternativa a tensão de ensaio especificada para CA, e deve ser  170% da tensão 
+de ensaio especificada para CA  R.M.S. para enrolamentos isolados, ou 140% da tensão de ensaio especificada para CA  R.M.S para 
+situações onde o ar ou a distância escoamento sejam o meio de isolação.  
+ 
+O ensaio deve ser considerado como estand o em conformidade com os requisitos caso não haja fuga de corrente.  
+ 
+2- De acordo com a ABNT NBR IEC 60079 -18 (Encapsulado "m"):  
+ 
+Inspeção visual: Cada parte do equipamento "m" deve ser submetido a uma inspeção visual e nenhum dano no composto, que 
+poderi a prejudicar o tipo de proteção, deve ser observado, por exemplo, rachaduras no composto, exposição dos componentes 
+encapsulados ou falhas na adesão.  
+ 
+Ensaio de rigidez dielétrica: Este ensaio não deverá ser realizado tendo em vista que ele já será realiza do de acordo com o ensaio 
+da ABNT NBR IEC 60079 -7 informado no item 1 acima.  
+ 
+1- According to ABNT NBR IEC 60079 -7 (Increased safety "e"), Clause 7.1, dielectric strength test for at least 1 minute of application with the following voltag es: 
+ 
+a) 500 V R.M.S . %0+5 for equipment voltages not exceeding 90 V peak.  
+ 
+b) (1000 + 2 U) V R.M.S. %0+5 or 1500 V R.M.S. %0+5, whichever is greater, where U is the working voltage, for equipment voltages in excess of 90 V peak.  
+ 
+Alternatively, a test shall be carried out at 1 .2 times the test voltage given above but maintained for at least 100 ms.  
+ 
+DC test voltages are permitted as alternative to the specified a.c. test voltage and shall be 170% of the specified a.c. r.m. s. test voltage for insulated windings, or 140% of 
+the s pecified a.c. r.m.s. test voltage for situations where air or creepage distance is the insulation medium.  
+ 
+The test is deemed to be in compliance with the requirements if no breakdown occurs.  
+ 
+2- According to ABNT NBR IEC 60079 -18 (Encapsulation "m"):  
+ 
+Visual inspection: Each piece of the "m" apparatus shall be subjected to a visual inspection and no damage to the compound, t hat could impair the type of protection, shall 
+be observed, for example, cracks in the compound, exposure of the encapsulated components or failure of adhesion.  
+ 
+Dielectric strength test: This test does not need to be conducted, as the test will be already conducted in accordance with t he test of ABNT NBR IEC 60079 -7 as given on 
+item 1 above.  
+    
+ 
+CERTIFICADO DE CONFORMIDADE  
+CERTIFICATE OF CONFORMITY  
+ 
+Certificado No. /  Certificate No.  UL-BR 12.0005X  
+Certificado de Conformidade válido somente acompanhado das páginas de:  
+Certificate of Conformity valid only with the following pages:  1 a 9 
+Emissão  / Date of issue  13 de janeiro de 2012 / January 13, 2012  
+Revisão  / Revision Date  27 de setembro de 2021 / September 27, 2021  
+Validade  / Expire date  12 de janeiro de 202 4 / January 12, 2024    
+ 
+ 
+Organismo de Certificação /  
+Certification Body  UL do Brasil Certificações  
+Avenida Engenheiro Luis Carlos Berrini, 105 – 24° andar  
+04571 -010 – Brooklin – São Paulo – SP – Brasil  
+Página / Page  6/9                                                                                             41-IC-F0400 rev. 1 8.0
+  LISTA DE DOCUMENTOS / DOCUMENTS LIST:  
+ 
+☒Description ILL#  
+☐TestRef ILL#  Título / Title: Desenho Nº  
+Drawing No.:  Revisão ou Data:  
+Issue or Date  
+01 Explosion proof solenoid operator  127650  M 
+02 Gasket - Cover  131409  J 
+03 Nameplate - UL/INMETRO  HV-134-302 H 
+04 PCB Assembly - EST Coils - (Diode assembly full wave circuit)  145683  F 
+05 PCB Assembly - EST Coils - (Diode assembly suppression circuit)  145684  H 
+06 PCB Assembly - EST Coils - (Diode assembly half wave plus suppression circuit)  145686  J 
+07 PCB Assembly - EST Coils - (Thermal cut -off assembly circuit)  145687  F 
+08 Coil MXX - E.S.T. - Outside dimensions for E.S.T. coil with P.C.B  293942  F 
+09 Coil M6 - E.S.T. - Outside dimensions  293991  E 
+10 Coil M12 -I - E.S.T. - Outside dimensions  293992  E 
+11 Coil M12 -II - E.S.T. - Outside dimensions  293993  F 
+12 PCB Assembly - EST Coils - (Diode assembly half wave plus suppression circuit with 
+redundant suppresion diode)  294713  D 
+13 Coil Instruction Information Sheet - Testing of EST coil  CIIS04 -6-01 F 
+14 Descrição de produto do operador solenóide para segurança aumentada  FV-134-682 B 
+15 Instruções de Instalação e Manutenção Dos Operadores Solenóides de Segurança 
+Aumentada para Atmosfera Explosiva  
+Modelos: EM(WSEM) -M12-I, EMT(WSEMT) –M12-I, EMET(WSEMET) –M12-I. 
+(123620 -325) MI-0018  
+ 3 
+16 Instruções de Instalação e Manutenção Dos Operadores Solenóides de Segurança 
+Aumentada para Atmosfera Explosiva  
+Modelos: EM(WSEM) -M12-I-NVR, EMT(WSEMT) -M12-I-NVR, EMET(WSEMET) -M12-
+I-NVR. (123620 -330) MI-0019  
+ 3 
+17 Instruções de Instalação e Manutenção Dos Operadores Solenóides de Segurança 
+Aumentada para Atmosfera Explosiva  
+Modelos: EM(WSEM) -M12-II, EMT(WSEMT) -M12-II, EMET(WSEMET) -M12–II. 
+(123620 -327) MI-0020  
+ 3 
+18 Instruções de Instalação e Manutenção Dos Operadores Solenóides de Segurança 
+Aumentada para Atmosfera Explosiva  
+Modelos: EM(WSEM) –MXX/M12 -II, EMT(WSEMT) –MXX/M12 -II, EMET(WSEMET) –
+MXX/M12 –II. (123620 -328) MI-0021  3 
+19 Instruções de Instalação e Manutenção Dos Operadores Solenóides de Segurança 
+Aumentada para Atmosfera Explosiva  
+Modelos: EM(WSEM) –MXX, EMT(WSEMT) –MXX, EMET(WSEMET) –MXX. (123620 -
+324) MI-0022  3 
+20 Instruções de Instalação e Manutenção Dos Operadores Solenóides de Segurança 
+Aumentada para Atmosfera Explosiva  
+Modelos: EM(WSEM) –MXX, EMT(WSEMT) –MXX, EMET(WSEMET) –MXX. (123620 -
+326) MI-0023  
+ 3 
+21 Instruções de Instalação e Manutenção Dos Operadores Solenóides de Segurança 
+Aumentada para Atmosfera Explosiva  
+Modelos: EM(WSEM) –MXX BAIXA POTÊNCIA, EMT(WSEMT) -MXX BAIXA 
+POTÊNCIA, EMET(WSEMET) -MXX BAIXA POTÊNCIA. (123620 -329) MI-0024  3 
+22 Instruções de Instalação e Manutenção Dos Operadores Solenóides de Segurança 
+Aumentada para Atmosfera Explosiva  
+Modelos: EM(WSEM) –M6, EMT(WSEMT) –M6, EMET(WSEMET) –M6, (123620 -323) MI-0033  3 
+23 Nameplate, EM  (page 51)  133497  C 
+24 Gland, cable, non -mettalic, unarmoured clable ( page  60) 144035  NA 
+25 Connector, cable entry WP/WS housing  (page 61)  144039  G 
+26 Gasket, gland  (page 62)  140043  G 
+   
+ 
+CERTIFICADO DE CONFORMIDADE  
+CERTIFICATE OF CONFORMITY  
+ 
+Certificado No. /  Certificate No.  UL-BR 12.0005X  
+Certificado de Conformidade válido somente acompanhado das páginas de:  
+Certificate of Conformity valid only with the following pages:  1 a 9 
+Emissão  / Date of issue  13 de janeiro de 2012 / January 13, 2012  
+Revisão  / Revision Date  27 de setembro de 2021 / September 27, 2021  
+Validade  / Expire date  12 de janeiro de 202 4 / January 12, 2024    
+ 
+ 
+Organismo de Certificação /  
+Certification Body  UL do Brasil Certificações  
+Avenida Engenheiro Luis Carlos Berrini, 105 – 24° andar  
+04571 -010 – Brooklin – São Paulo – SP – Brasil  
+Página / Page  7/9                                                                                             41-IC-F0400 rev. 1 8.0
+  CERTIFICADO DE CONFORMIDADE, RELATÓRIOS DE ENSAIO / CERTIFICATE OF CONFORMANCE, TEST 
+REPORTS : 
+ 
+☒TestRec DS#  
+☐TestRef DS#  Título/Descrição:  
+Title/Description:  Documento Nº  
+Document No.:  Revisão ou Data:  
+Issue or Date  
+1 Certificado IECEx, DEKRA Certification B.V.  IECEx KEM 08.0002X – Issue 4  2020 -08-06 
+2 Relatório de ensaios, KEMA Quality B.V.  NL/KEM/ExTR08.0002/00  2009 -07-16 
+3 Relatório de ensaios, KEMA Quality B.V. (IEC 60079 -7) NL/KEM/ExTR08.0002/02  2017 -12-01 
+4 Relatório de ensaios, KEMA Quality B.V. (IEC 60079 -18) NL/KEM/ExTR08.0002/02  2017 -12-01 
+5 Relatório de ensaios, DEKRA Certification B.V. (IEC 60079 -31) NL/KEM/ExTR08 .0002/02  2017 -12-01 
+6 Relatório de ensaios, DEKRA Certification B.V. (Addendum)  NL/KEM/ExTR08.0002/02  2017 -12-01 
+7 Relatório de ensaios, DEKRA Certification B.V. (Cover Page)  NL/KEM/ExTR08.0002/02  2017 -12-01 
+8 Relatório de ensaios, DEKRA Certification B.V. (National Differ.)  NL/KEM/ExTR08.0002/02  2017 -12-01 
+9 Relatório de ensaios, Labelo  ATX072/2008  2008 -10-17 
+10 Relatório de ensaios, Labelo  ATX005/2006  2006 -03-21 
+11 Relatório de ensaios, Labelo  ATX006/2006  2006 -03-23 
+12 Relatório de ensaios, Labelo  ATX007/2006  2006 -03-23 
+13 Relatório de ensaios, Labelo  ATX008/2006  2006 -03-23 
+14 Relatório de ensaios, Labelo  ATX009/2006  2006 -03-23 
+15 Relatório de ensaios, Labelo  ATX015/2006  2006 -05-22 
+16 Relatório de ensaios, Labelo  ATX016/2006  2006 -05-22 
+17 Relatório de ensaios, Labelo  ATX017/2006  2006 -05-22 
+18 Relatório de ensaios, Labelo  ATX066/2008  2008 -10-17 
+19 Relatório de ensaios, Labelo  ATX067/2008  2008 -10-17 
+20 Relatório de ensaios, Labelo  ATX068/2008  2008 -10-17 
+21 Relatório de ensaios, Labelo  ATX069/2008  2008 -10-17 
+22 Relatório de ensaios, Labelo  ATX070/2008  2008 -10-17 
+23 Relatório de ensaios, Labelo  ATX071/2008  2008 -10-17 
+24 Relatório de ensaios, DEKRA Certification B.V. (IEC 60079 -0) NL/KEM/ExTR08.0002/01  2014 -10-17 
+25 Relatório de ensaios, DEKRA Certification B.V. (IEC 60079 -18) NL/KEM/ExTR08.0002/01  2014 -10-17 
+26 Relatório de ensaios, DEKRA Certification B.V. (IEC 60079 -31) NL/KEM/ExTR08.0002/01  2014 -10-17 
+27 Relatório de ensaios, DEKRA Certification B.V. (Addendum)  NL/KEM/ExTR08.0002/01  2014 -10-17 
+28 Relatório de ensaios, DEKRA Certification B.V. (Description)  NL/KEM/ExTR08.0002/01  2014 -10-17 
+29 Relatório de ensaios, DEKRA Certification B.V. (Cover Page)  NL/KEM/ExTR08.0002/01  2014 -10-17 
+30 Relatório de ensaios, DEKRA Certification B.V. (National Differ.)  NL/KEM/ExTR08.0002/01  2014 -10-17 
+31 Relatório de ensaios, DEKRA Certification B.V.  NL/KEM/ExTR08.0002/02  2017 -12-01 
+32 Hazloc Inmetro Test Report Addendum, emitido por  UL do Brasil  4789954838  (BR2053 V1S 7) 2021 -09-21   
+ 
+CERTIFICADO DE CONFORMIDADE  
+CERTIFICATE OF CONFORMITY  
+ 
+Certificado No. /  Certificate No.  UL-BR 12.0005X  
+Certificado de Conformidade válido somente acompanhado das páginas de:  
+Certificate of Conformity valid only with the following pages:  1 a 9 
+Emissão  / Date of issue  13 de janeiro de 2012 / January 13, 2012  
+Revisão  / Revision Date  27 de setembro de 2021 / September 27, 2021  
+Validade  / Expire date  12 de janeiro de 202 4 / January 12, 2024    
+ 
+ 
+Organismo de Certificação /  
+Certification Body  UL do Brasil Certificações  
+Avenida Engenheiro Luis Carlos Berrini, 105 – 24° andar  
+04571 -010 – Brooklin – São Paulo – SP – Brasil  
+Página / Page  8/9                                                                                             41-IC-F0400 rev. 1 8.0
+   
+OBSERVAÇÕES / OBSERVATIONS : 
+ 
+1. Este certificado aplica -se aos produtos  idênticos ao protótipo avaliado e certificado, manufaturados na(s) unidade(s) fabril(is) 
+mencionada( s) neste certificado , sendo este válido apenas para produtos fabricados/produzidos após a sua emissão.  
+  
+2. Qualquer alteração no produto, incluindo a marcaçã o, invalidará o presente certificado, salvo se o solicitante informar por escrito à 
+UL do Brasil Certificações sobre esta modificação, a qual procederá à avaliação e decidirá quanto à continuidade da validade do 
+certificado.  
+ 
+3. Somente as unidades comercializadas durante a vigência deste certificado estarão cobertas por esta certificação.  
+  
+4. Os equipamentos  devem ser instalados em atendimento ás Normas pertinentes em Instalações Elétricas em Atmosferas Explosivas, 
+ABNT NBR IEC 60079 -14. 
+  
+5. As atividades de instalação, inspeção, manutenção, reparo, revisão e recuperação dos equipamentos são de responsabilidade  dos 
+usuários e devem ser executadas de acordo com os requisitos das normas técnicas vigentes e com as recomendações do fabricante . 
+ 
+6. É de competência do solicitante estabelecido fora do país notificar o representante legal para fins de comercialização no B rasil, 
+importador ou o próprio usuário sobre as responsabilidades e obrigações prescritas na Cláusula 10 da Portaria 179:2010.  
+ 
+7. A validade deste Certificado de Conformidade está atrelada à realização das avaliações de manutenção e tratamento de possívei s 
+não conformidades de acordo com as orientações da UL do Brasil Certificações  previstas no RAC específico. Para verificação da 
+condição atualizada de regularidade deste Certificado de Conformidade deve ser consultado o banco de dados de produtos e serv iços 
+certificados do Inmetro.  
+ 
+ 
+1. This certificate applies to the products that are  identical to the prototype investigated, certified and manufactured at the production site(s ) mentioned in this certificate, 
+being valid only for products produced/manufactured after its issuance.  
+ 
+2. Any changes made on the product, including marking, will invalidate this certificate unless UL do Brasil  Certificações  is notified, in written, about the desired change, 
+who will conduct an analyzes and will decide over the continuity of the certificate validity.  
+ 
+3. Only the products placed into the market during the validity of this certificate will be covered by this certification.  
+ 
+4. The equipment shall be installed according to the relevant Standards in Electrical Installation for Explosive Atmospheres, AB NT NBR IEC 60079 -14. 
+ 
+5. The installation, inspection, maintenance, repair, review and rebuild equipment activities are responsibility of the end user and must be perfo rmed in accordance with 
+the requirements of the standards and manufacturer's recommendation.  
+ 
+6. If the applicant is established outsi de of Brazil it is their responsibility to notify the legal representative for commercial purposes in Brazil, importer or end  user of the 
+responsibilities and obligations described in Clause 10 of Portaria 179:2010 . 
+ 
+7. The validity of this Certificate of Conformity is subjected to the conduction of the maintenance evaluations and treatment of  possible nonconformities according to 
+UL do Brasil Certificações  guidelines in accordance with the specific RAC. In order to verif y the updated condition of validity of this Certificate of Conformity, the 
+Inmetro database of certified products and services must be consulted.  
+ 
+ 
+    
+ 
+CERTIFICADO DE CONFORMIDADE  
+CERTIFICATE OF CONFORMITY  
+ 
+Certificado No. /  Certificate No.  UL-BR 12.0005X  
+Certificado de Conformidade válido somente acompanhado das páginas de:  
+Certificate of Conformity valid only with the following pages:  1 a 9 
+Emissão  / Date of issue  13 de janeiro de 2012 / January 13, 2012  
+Revisão  / Revision Date  27 de setembro de 2021 / September 27, 2021  
+Validade  / Expire date  12 de janeiro de 202 4 / January 12, 2024    
+ 
+ 
+Organismo de Certificação /  
+Certification Body  UL do Brasil Certificações  
+Avenida Engenheiro Luis Carlos Berrini, 105 – 24° andar  
+04571 -010 – Brooklin – São Paulo – SP – Brasil  
+Página / Page  9/9                                                                                             41-IC-F0400 rev. 1 8.0
+  HISTÓRICO DE REVISÕES / REVISION HISTORY : 
+ 
+2021 -09-27 – Rev. 7 – 4789954838  
+Atualização das versões das normas de avaliação , pequenas altera ções e correções nos desenhos de certificação  e remoção do local de fabricação 
+(Holanda) . 
+Update on evaluation standard versions , minor updates and corrections on certification dr awings  and removal of manufacturing location (Netherlands) . 
+2021-04-06 – Rev. 6 – 4789790138  
+Atualização do certificado de acordo com o relatório de ensaio NL/KEM/ExTR08.0002/02, que permite a atualização da Descrição do Produto, 
+Condições Específicas de Utilização e atualização da lista de desenhos; inclusão da unidade fabril  “Emerson Automation Fluid Control & 
+Pneumatics Poland Sp. z o. o. ”. 
+Update of the certificate in accordance with test report NL/KEM/ExTR08.0002/02 , which allows updating the Product Description, Specific Conditions of Use and the list 
+of drawings; inclusion of manufacturer site “Emerson Automation Fluid Control & Pneumatics Poland Sp. z  o. o.”.  
+2021 -01-11 – Rev. 5 – 5410476.1343649  
+Renovação da Certificação.  
+Certificate Renewal.  
+2018 -03-14 – Rev. 4 – OPP -112017 -101377902.1.1  
+Atualização do certificado de acordo com o certificado IECEx no. IECEx KEM 08.0002X – Issue 3 e os relatórios de ensaios nos. 
+NL/KEM/ExTR08.0002/01 e NL/KEM/ExTR08.0002/02.  
+Certificate updates in accordance with IECEx certificate no. IECEx KEM 08.0002X – Issue 3 and the test reports nos. NL/KEM/ExTR08.0002/01 and 
+NL/KEM/ExTR08.0002/02.  
+2018 -01-15 – Rev. 3 – 4580484.1081517  
+Renovação de Certificação.  
+Certificate renewal.  
+2013-09-10 – Rev. 2 – 2188434.509091  
+Renovação de Certificação.  
+Certificate renewal.  
+2013 -09-10 – Rev. 1 – SR10339540 -T001 -2 
+Atualização da template da certificação com pequenas correções e clarificações no texto.  
+CoC template update with minor changes and clarifications in the text.  
+2012 -01-13 – Rev. 0 – 11CA45340  
+Emissão inicial  
+Initial issue  
+A última revisão substitui e cancela as anteriores  
+The last revision cancel s and substitutes the previous ones  
+ 
+ 
+ 
+  
+ 
+ 
+DNV  GL – BUSINESS  ASSURANCE  
+CERTIFICADO DE CONFORMIDADE 
+Certificate of Conformity / Certificado de Confor midad 
+ 
+Certificado nº : DNV 12. 0059 X – Revisão 0 5 
+Certificate nº / Certificado nº  Emissão: 31/05/2021 
+Issuance / Otorg amiento  Válido até: 31/05/2024 
+Valid until / Válido hasta  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Adriano Marco n Duarte  
+Gerente de Operações  
+Operations Manager  
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Heleno dos Santos  Ferreira  
+Especial ista Atmosferas Explosivas 
+Specialist for Explosive Atmospheres  
+ 
+Nota : A falta de cumprimento das condições estabelecidas no con trato pode tornar este certif icado inv álido .  
+O documento as sinado digitalmente e distribuído eletronicamente é o original do certificado e válido. Ref:. https://www. dnvgl. com/assurance/general/v alidating_digital _signatures.ht ml 
+ 
+DNV GL Business Assurance Avaliações e Certificações Brasil  Ltda 
+Av. Alfredo Egydio de Souza Aranha, 100 - Bloco D - 3º Andar – CEP: 04726 -908 - São Paulo, SP, Brasil  
+Form Ref.:   ZNS-BR-EX-006 Rev.: 03 Data: 03/01/2020 http://www.dnvgl.com.br    Pág.: 1 de 7 
+ 
+Produto:  
+Product/Producto  CHAVE  FIM DE CURSO  
+Tipo / Modelo:  
+Type –  Model/Tipo –  Modelo  ULTRASWITCHTM 
+Solicitante:  
+Applicant/Solicitante  PMV AUTOMATION AB  
+Korta Gatan 9  
+SE-171 54 Solna  
+Sweden  
+Fabricante:  
+Manufacturer/Fabricante  PMV AUTOMATION AB  
+Korta Ga tan 9  
+SE-171 54 Solna  
+Sweden  
+Normas Técnicas:  
+Standards/Normas ABNT NBR IEC 60079- 0:2013, ABNT NBR IEC 60079- 1:2009 e  
+ABNT NBR IEC 60079- 31:2011 
+Laboratório de Ensaio:  
+Testing Laboratory /Laborat orio de Ensayo  Sira Certification Service  
+Nº do Re latório de Ensaios:  
+Test Report Number/Nº del informe de Ensayo  Mencionado na documentação descritiva  
+Nº do Relatório de Auditoria:  
+Audit Report Number/Nº del informe de Audit  NO/NEM/QAR08.0008/1 0 de 30/ 04/2020  
+Esquema de Certi ficação:  
+Certification Sche me/Esque ma de Certificación  Modelo 5 com Avaliação do Sistema de Gestão da Qualidade do Fabricante e 
+Ensaios no Produto, conforme cláusula 6.1 dos Requisitos de Avaliação da 
+Conformidade, anexo à Portaria nº 179 do INMETRO, publi cada em 2010.  
+Notas:  
+Notes /Anotaci ón A validade deste Certificado de Conformidade está atrelada à realização das 
+avaliações de manutenção e tratamento de possíveis não conformidades de 
+acordo com as orientações da DNV GL p revistas no RAC específico. Para 
+verificação da condição atu alizada de regularidade deste Certificado de 
+Conformidade deve ser consultado o banco de dados de produtos e serviços 
+certificados do INMETRO.  
+Portaria:  
+Governmental Regulation/Regulación Oficial  INMETRO n° 179 de 2010.  
+INMETRO n°   89 de 2012.  
+ 
+ 
+ 
+ 
+DNV  GL – BUSINESS  ASSURANCE  
+CERTIFICADO DE CONFORMIDADE 
+Certificate of Conformity / Certificado de Confor midad 
+ 
+Certificado nº : DNV 12. 0059 X – Revisão 0 5 
+Certificate nº / Certificado nº  Emissão: 31/05/2021 
+Issuance / Otorg amiento  Válido até: 31/05/2024 
+Valid until / Válido hasta  
+ 
+ 
+DNV GL Business Assurance Avaliações e Certificações Brasil  Ltda 
+Av. Alfredo Egydio de Souza Aranha, 100 - Bloco D - 3º Andar – CEP: 04726 -908 - São Paulo, SP, Brasil  
+Form Ref.:  ZNS -BR-EX-006 Rev.: 0 3 Data: 03/01/2020 http://www.dnvgl.com.br    Pág.: 2 de 7 
+ 
+ 
+Local de Fabricação adicional:  
+Additiona l Manufacturing location(s):  
+Ubicación de fabricación  adicionales (s):  PMV AUTOMATION AB  
+Korta Gatan 9  
+SE-171 54 Solna  
+Sweden  
+Data da auditoria: 19/ 05/2021 
+ 
+BROVEX MEKANISKA VERKSTAD  AB 
+Garpenbergsgatan 4  
+SE-163 53 Spånga 
+Sweden  
+Data da auditoria: 21/ 05/2021 
+ 
+UNIMET D.O.O  
+Delfe Ivanic 51  
+RS-21241 Kac  
+Serbia  
+Data da auditoria: 20/ 05/2021 
+ 
+Descrição do Equipamento:  
+ 
+A chave fim de curso modelo UltraSwitchTM fornece indicação de posição local ou remota para válvulas 
+automatizadas. As cha ves fim de curso são equipadas com uma série de opçõ es e adequadas a uma variedade de 
+aplica ções elétricas, possuem invólucro  em alumínio e são constituídas das seguintes partes principais:  
+ − Base do invólucro principal  
+− Tampa do invólucro principal ( plana ou com domo)  
+− Eixo e mancais de bronze  
+− Anéis de vedaçã o O-ring 
+ 
+O tipo de proteção “à prova de  explosão” das chaves fim de curso depende dos seguintes aspectos:  
+ 
+− Juntas roscadas  
+− Juntas cilíndricas  
+− Anéis de vedação O- ring 
+− Resistência mecânica do invól ucro 
+ 
+Todas as conexões  externas são realizadas através de terminais instalados no interior do invó lucro. Alguns 
+modelos de chaves fim de curso possuem indicador na tam pa (vermelho = fechado / verde = aberto) para a 
+visualização local da posição. O equipam ento não possui juntas soldadas.   
+ 
+ 
+DNV  GL – BUSINESS  ASSURANCE  
+CERTIFICADO DE CONFORMIDADE 
+Certificate of Conformity / Certificado de Confor midad 
+ 
+Certificado nº : DNV 12. 0059 X – Revisão 0 5 
+Certificate nº / Certificado nº  Emissão: 31/05/2021 
+Issuance / Otorg amiento  Válido até: 31/05/2024 
+Valid until / Válido hasta  
+ 
+ 
+DNV GL Business Assurance Avaliações e Certificações Brasil  Ltda 
+Av. Alfredo Egydio de Souza Aranha, 100 - Bloco D - 3º Andar – CEP: 04726 -908 - São Paulo, SP, Brasil  
+Form Ref.:  ZNS -BR-EX-006 Rev.: 0 3 Data: 03/01/2020 http://www.dnvgl.com.br    Pág.: 3 de 7 
+ 
+ 
+Características Elétricas : 
+ 
+Tipo de elemento 
+de chaveamento  Carac terísticas elétricas  
+(Modelo DCA – opção denotada com [])  
+M1 e MA  15,1 A – ½ HP – 125/250 Vca / 0,5 A – 125 Vcc / 0,25 A – 250 Vcc / 5 A – 120 Vca  
+MC 15,1 A – ½ HP – 125/250 Vca / 0,5 A – 125 Vcc / 0,25 A – 250 Vcc  / 5 A – 120 Vca  
+MD e MS  10 A – ½ HP – 125 Vca  
+MG 1 A – 125 Vca / 50 mA – 24 Vcc  
+M3 15 A – 125/250 Vca / 3/5 HP – 125 Vca / ½ HP – 250 Vca  
+P4 0,25 A – 200 Vcc / 0,5 A – 100 Vcc / 1 A – 50 Vcc / 0,35 A – 140 Vca – 50 W 
+P5 0,25 A – 120 Vca – 60 Hz – 28 Vcc – 3 W 
+MB 10 A – ½ HP – 125 Vca  
+PE 24 Vcc – 2 A – 120 Vca – 1 A 
+PP e [P]  3 A – 120 Vca / 2 A – 24 Vcc  
+PT e [T]  3 A – 120 Vca / 0,5 A – 24 Vcc  
+N8, NP e NQ  5-25 Vcc  
+NR, NS e NT  10-60 Vcc, 2 00 mA  
+FZ 31 Vcc – 26 mA  
+N9, R1 e [M]  5-60 Vcc, 100 mA  
+P1 10-60 Vcc, 100 mA  
+FN 24 Vcc, 0,12 A  
+ 
+Código do modelo:  
+ 
+Chave fim de curso modelo UltraSwitch abcdef- g-hijkl 
+ a  Etiqueta:     01 caractere alfanumérico  
+b  Tipo de eixo:    01 caractere alfanumé rico 
+c  Invólucro / Entrada:   XCL = Invólucro em alumínio / ¾” NPT  
+     XML = Invólucro em alumí nio / M25  
+d  Indicador de posição:   01 caractere alfanumérico  
+e  Quantidade de chaves :  01 caractere alfanumérico  
+f  Tipo de chave :   M1 = Mecânic a (SPDT)  
+     M3 = Mecânica (DPDT)  
+     MA = M1 com cames para controle de 3 posições  
+MB = Mecânica (DPDB) – Licon 
+MC = Mecânica (SPDT) com bloco de terminais para 120 °C  
+     MD = Mecânica (DPDT) com cames para controle de 3 posições (DA) 
+     MG = Mecânic a (SPDT) revestid a a ouro  
+MS = Mecânic a (DPDT) com cames para contro le de 3 posições (SR)  
+N8 = NJ2 -V3-N – P+F (DOW = S)  
+N9 = NBB3 -V3-Z4 – P+F 
+NP = SJ3 -5N (Namur) – P+F 
+     NQ = NJ4 -12GK+N (Namur) – P+F  
+ 
+ 
+DNV  GL – BUSINESS  ASSURANCE  
+CERTIFICADO DE CONFORMIDADE 
+Certificate of Conformity / Certificado de Confor midad 
+ 
+Certificado nº : DNV 12. 0059 X – Revisão 0 5 
+Certificate nº / Certificado nº  Emissão: 31/05/2021 
+Issuance / Otorg amiento  Válido até: 31/05/2024 
+Valid until / Válido hasta  
+ 
+ 
+DNV GL Business Assurance Avaliações e Certificações Brasil  Ltda 
+Av. Alfredo Egydio de Souza Aranha, 100 - Bloco D - 3º Andar – CEP: 04726 -908 - São Paulo, SP, Brasil  
+Form Ref.:  ZNS -BR-EX-006 Rev.: 0 3 Data: 03/01/2020 http://www.dnvgl.com.br    Pág.: 4 de 7 
+ 
+ 
+     NR = NJ4 -12GM40 -E1 – P+F  
+     NS = NJ4 -12GM40 -E2 – P+F  
+     NT = NJ4 -12GK40- E2 – P+F 
+     R1 = NBB3 -V3-Z4-3G-3D – P+F (DOW = M)  
+     P1 = NCB2 -12GM40 -Z0 – P+F  
+     P4 = Proximidade (SPST) – ALEPH PS -6132 
+     P5 = Proximidade (SPDT) – Halim 59 135- 030 
+     PE = Proximidade (SPDT) – Sabre  
+     PP = Proximida de (SPDT) – Phazer (DOW = P, K)  
+     PT = Proximidade (SPD T) – BRS (DOW = T, B)  
+     FN = Disposit ivo controlador de rede (2) tipo chave P4 
+     FZ = Cartão com 2 chaves tipo 4 (P4) – AS-I  
+g  Tipo de certificação:   26 = Ex d INMETRO  
+h  Opções:     01 caractere alfanumérico  
+i  Opções de fiação:    01 caractere alfanumérico  
+j  Mínimo de terminais a bertos: 01 caractere alfanumérico  
+k  Opções especiais:    0 = Sem opções especiais  
+     (anéis de vedação oring em borracha nitrílica)  
+     V = Anéis de vedaç ão em Viton  
+     Todas as outras opções não afetam o tipo d e proteção  
+l  Opções de revestimento:   01 caractere alfanumérico  
+ 
+Chave fim de curso modelo UltraSwitch abcdefgh * Específico para DOW  
+ 
+a  Etiqueta:     D = DOW  
+b  Classificação:    N = Marcação e special ¾” NPT  
+     C = Marcação especial  ½” NPT 
+c  Invólucro:    A = Alumínio, à prova de explo são 
+d  Indicador de posição:   1 = Tampa superio r plana, Sem indicador 
+     3 = Domo, Preto / Amarelo  
+     5 = Domo para 155° Válvula de Desvio  
+     6 = Domo p ara 135° Válvula de Desvio  
+e  Idioma:     P = Português  
+f  Tipo de chave:    B = 2x Phazer III BR S 
+     K = 2x Phazer III  
+     T = 2x Phazer II BRS  
+     P = 2x Phazer II  
+     M = NBB3 -V3-Z4-3G-3D – P+F  
+     S = NJ2 -V3-N 
+g  Tipo de chave:    1 = Padrão  
+     2 = Terminal de 12 posições  
+h  Tipo de montagem:   N = Co nfiguração NAMUR, Haste NAMUR 
+     STD = Configuração não NAMUR, Haste padrão   
+ 
+ 
+DNV  GL – BUSINESS  ASSURANCE  
+CERTIFICADO DE CONFORMIDADE 
+Certificate of Conformity / Certificado de Confor midad 
+ 
+Certificado nº : DNV 12. 0059 X – Revisão 0 5 
+Certificate nº / Certificado nº  Emissão: 31/05/2021 
+Issuance / Otorg amiento  Válido até: 31/05/2024 
+Valid until / Válido hasta  
+ 
+ 
+DNV GL Business Assurance Avaliações e Certificações Brasil  Ltda 
+Av. Alfredo Egydio de Souza Aranha, 100 - Bloco D - 3º Andar – CEP: 04726 -908 - São Paulo, SP, Brasil  
+Form Ref.:  ZNS -BR-EX-006 Rev.: 0 3 Data: 03/01/2020 http://www.dnvgl.com.br    Pág.: 5 de 7 
+ 
+ 
+Análises e ensaios realizados:  
+ 
+As análises e os ensaios realizados encontram -se no arquivo nº DNV  12.0059 . 
+ 
+Docu ment ação descritiva:  
+ 
+Documento  Páginas  Descrição  Rev.  Data  
+IECEx SIR 06.0007X  5 Certificado de Conform idade  0 14/12/2007  
+IECEx SIR 06.0007X  7 Certificado de Conformidade  1 25/03/2008  
+IECEx SIR 06.0007X  7 Certificado de Conformidade  2 19/03/2010  
+IECEx SIR 06.0007X  7 Certificado de Conformidade  3 14/03/2011  
+IECEx S IR 06.0007X  7 Certificado de Conformidad e 4 15/11/2012  
+IECEx SIR 06.0007X  7 Certificado de Conformidade  5 03/06/2015  
+IECEx SIR 06.0007X  8 Certificado de Conformidade  6 22/06/2018  
+GB/SIR/ExTR07. 0140/00  21 Relatório de ensaios  0 10/12/2007  
+GB/SIR/ExTR08. 0033/00  3 Relatório de ensaios  0 28/02/2008  
+GB/SIR/ ExTR10.0043/ 00 7 Relatório de ensaios  0 08/03/2010  
+GB/SIR/ExTR11.0021/00  5 Relatório de ensaios  0 31/01/2011  
+GB/SIR/ExTR12.0262/ 00 11 Relatóri o de ensaios  0 15/11/2012  
+GB/SIR/ExTR15.0143/ 00 16 Relatóri o de ensaios  0 13/05/2015  
+GB/SIR/ExTR18.0106/00  7 Relatório de ensaios  0 22/06/2018  
+ 
+Marcação:  
+ 
+A chave  fim de curso foi aprovad a nos ensaios e análises, nos termos das normas adotadas, devendo receber a 
+marcação, levando -se em con sideração o item obser vações . 
+ 
+Ex d IIB T5 Gb 
+Ex tb IIIC T100 ºC Db 
+IP66/IP67  
+-20 ºC ≤ Ta ≤ +55 ºC 
+ 
+Observações:  
+ 
+1. O número do certificado é finalizado pela letra X para indicar que os produtos estão sujeitos as condiç ões 
+específica s de utilização  especificada s abaixo:  
+Os seguintes in terstícios de fabricação máximos são menores do que os requeridos pela  
+ABNT  NBR IEC 60079- 1: 
+Junta flangeada entre tampa e base:   0,058 mm  
+Junta cilíndrica entre eixo e tampa:   0,088 mm (folga diametral)  
+Junta cilíndrica entre tampa e base:   0,088 m m (fol ga diametral)  
+A tensão de cisalhamento dos parafus os de fixação da tampa é de 671 N/mm².   
+ 
+ 
+DNV  GL – BUSINESS  ASSURANCE  
+CERTIFICADO DE CONFORMIDADE 
+Certificate of Conformity / Certificado de Confor midad 
+ 
+Certificado nº : DNV 12. 0059 X – Revisão 0 5 
+Certificate nº / Certificado nº  Emissão: 31/05/2021 
+Issuance / Otorg amiento  Válido até: 31/05/2024 
+Valid until / Válido hasta  
+ 
+ 
+DNV GL Business Assurance Avaliações e Certificações Brasil  Ltda 
+Av. Alfredo Egydio de Souza Aranha, 100 - Bloco D - 3º Andar – CEP: 04726 -908 - São Paulo, SP, Brasil  
+Form Ref.:  ZNS -BR-EX-006 Rev.: 0 3 Data: 03/01/2020 http://www.dnvgl.com.br    Pág.: 6 de 7 
+ 
+ 
+2. Este Certificado de Conformidade é válido para os produtos de modelo e tipo idêntico ao protótipo ensaiado.  
+Qualquer mod ificação  de projeto ou utilização de co mponentes e materiais di ferentes daqueles descritos na 
+documentação deste processo, sem autorização prévia da DNV GL, invalidará o certificado.  
+ 
+3. É responsabilidade do fabricante assegurar que os produtos estejam  de ac ordo com  as especificações do 
+protótipo  ensaiado, através de inspeções visuais e dimensionais.  
+ 
+4. Os produtos devem ostentar, na sua superfície externa e em local visível, a Marca de Conformidade e as 
+características técnicas da mesma de acordo com as especi ficações  das normas  ABNT  NBR IEC 60079 -0 / 
+ABNT NBR IEC 60079- 1 / ABNT NBR IEC 60079- 31 e Requ isitos de Avaliação da Conformidade,  anexo à 
+Portaria nº 179 do INMETRO, publicada em 18 de Maio de 2010. Esta marcação deve ser legível e durável, levando -se em conta p ossível corrosão química.  
+ 5. Os produtos  devem  ostentar, na sua s uperfície externa e em l ocal visível, a seguinte advertência:  
+ 
+ATENÇÃO  
+NÃO ABRA QUANDO ENERGIZADO  
+RISCO POTENCIAL DE CARGA ELETROSTÁTICA – LIMPE SOMENTE COM UM PANO ÚMIDO  
+UTILIZE CABOS APROPRIADOS PARA A TEMPER ATURA DE 110 ºC 
+ 6. Os bujões para fechar as aberturas não utilizadas e o s dispositivos de entrada de cabos (prensa -cabos, 
+unidade  seladora, adaptadores de rosca ) devem ser certificados , adequados para as condições de uso e 
+corretamente instalados.  
+ 
+7. Os produt os devem ser instalad os em atendimento às Normas pert inentes em Instal ações Elétricas em 
+Atmosferas Explosivas.  
+ 
+8. As atividades de instalação, inspeção, manutenção, reparo, revisão e recuperação dos produtos são de responsabilidade do usuá rio e devem ser ex ecutadas de aco rdo co m os requisitos da s normas técni cas 
+vigentes e co m as recomendações do fabricante.  
+ 
+9. Para fins de comercialização no Brasil, as responsabilidades da alínea “e” do item  10.1 da Portaria 179 de 18 
+de maio de 2010, é do representante legal ou importador.  
+ 
+Projeto  nº: PRJC-393660 -2012- PRC-BRA  
+ 
+ 
+DNV  GL – BUSINESS  ASSURANCE  
+CERTIFICADO DE CONFORMIDADE 
+Certificate of Conformity / Certificado de Confor midad 
+ 
+Certificado nº : DNV 12. 0059 X – Revisão 0 5 
+Certificate nº / Certificado nº  Emissão: 31/05/2021 
+Issuance / Otorg amiento  Válido até: 31/05/2024 
+Valid until / Válido hasta  
+ 
+ 
+DNV GL Business Assurance Avaliações e Certificações Brasil  Ltda 
+Av. Alfredo Egydio de Souza Aranha, 100 - Bloco D - 3º Andar – CEP: 04726 -908 - São Paulo, SP, Brasil  
+Form Ref.:  ZNS -BR-EX-006 Rev.: 0 3 Data: 03/01/2020 http://www.dnvgl.com.br    Pág.: 7 de 7 
+ 
+ 
+Histórico:  
+ 
+ Revisão  Descrição  Data  
+0 Certificação inicial – Efetivação  31/05/2012  
+1 Revalidação  09/06/2015  
+2 Atualização da razão social para o solicitante  06/09/2016  
+3 Atualização do Certificado conforme de aco rdo com o Certificado IECEx  04/04/2017  
+4 Revalidaçã o 31/05/2018  
+5 Recertificação  31/05/2021 
