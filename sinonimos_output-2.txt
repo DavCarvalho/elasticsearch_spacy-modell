@@ -1,0 +1,684 @@
+Equipe  | equipe, companhia, equipa, equipe, time, equipagem, equipe, tripulação, Tripulação, equipe, tripulação 
+Nome  | nome, substantivo, nome, substantivo, nome, nome_próprio, Prenomes, substantivo_próprio, antenome, nome, nome_de_batismo, nome_próprio, prenome, primeiro_nome, antenome, apelido, nome, Nome, nome_de_batismo, nome_próprio, prenome, primeiro_nome, antenome, apelido, nome, Nome, nome_de_batismo, nome_próprio, prenome, primeiro_nome, antenome, denominação, nome, nome_de_batismo, nome_próprio, prenome, primeiro_nome, título, epíteto, nome, Nomes 
+Função  | emprego, função, lugar, ocupação, ofício, profissão, serviço, trabalho, função, papel, função, Papel_social, função, propósito, função, subrotina, sub-rotina, Sub-rotina, função, função 
+Automação  | Automaçao, automação, automatização 
+Instrumentação  | instrumentação 
+Produção  | actividades_de_produção, produção, produção, produção, produção, produção, bens, produção, produções, produto, produtos, fruto, produção, produto, cinema, filme, filmes, película, produção, apresentação, produção, produção 
+CEP  | CEP, código_de_endereçamento_postal, código_postal, ficheiro_zip, ficheiro_zippado 
+Fone  | aparelho_auditivo, Aparelho_Auditivo, fone, fone, fonema 
+sistema  | sistema, sistema, sistema, sistema, estrutura, ordem, organização, sistema, sistema, organização, sistema, sistema 
+intertravamento  |  
+fornos  | forno, fornos 
+Novembro  | Nazaré, novembro, Novembro, Nazaré, novembro, Novembro 
+CÓPIA  | acto_de_copiar, cópia, cópia, reprodução, cópia, cópia, cópia_fotográfica, fotocópia, xerox, cópia 
+Sumário  | resumo, sumário, abreviação, abreviatura, compendio, compêndio, resumo, sumário, resumo, sumário, currículo, resumo, sumário, resumo, sinopse, sumário, resumo, resumo_geral, revisão_rápida, sumário, resumo, sumário 
+OBJETIVO  | objecto, objetivo, objeto, fim, ideia, intenção, objetivo, ponto_de_mira, finalidade, intenção, intento, objectivo, objetivo, propósito, ideia, intenção, mente, objectivo, objetivo 
+DESCRIÇÃO  | descrição, declaração, descrição, Descrição, declaração, descrição, Descrição, descrição, descrição, caracterização, caraterização, descrição, descrição, desenho, ilustração, retrato 
+DEFINIÇÕES  |  
+SISTEMA  | sistema, sistema, sistema, sistema, estrutura, ordem, organização, sistema, sistema, organização, sistema, sistema 
+ARMÁRIOS  |  
+INSTRUMENTAÇÃO  | instrumentação 
+ELETRÔNICA  | electrónica, Eletronica, Eletrónica, eletrônica, Eletrônica, electrónica, Eletronica, Eletrónica, eletrônica, Eletrônica 
+ISOLAÇÃO  | isolação, isolamento 
+CARACTERISTICAS  |  
+LAYOUT  | layout 
+EQUIPAMENTOS  | aparato, aparelho, dispositivo, equipamentos, ferramenta, instrumento, mecanismo, equipamento, equipamentos, ferramenta, apetrechos, equipamentos 
+CONDIÇÕES  |  
+ESTUDOS  |  
+RISCO  | perigo, risco, listra, risco, risco, linha, risco, traço, ameaça, perigo, risco, ameaça, perigo, risco 
+CONSIDERAÇÕES  |  
+INFORMAÇÕES  |  
+REGISTRO  | inscrição, matricula, matrícula, registro, registro, registro, registro 
+REVISÕES  |  
+objetivo  | objecto, objetivo, objeto, fim, ideia, intenção, objetivo, ponto_de_mira, finalidade, intenção, intento, objectivo, objetivo, propósito, ideia, intenção, mente, objectivo, objetivo 
+projeto  | projeto, desenho, projeto, esquema, plano, projeto, concepção, ideia, intenção, plano, planos, programa, programação, projecto, projeto, traçado, desenho, esquema, figura, ilustração, plano, projeto, desenho, plano, projeto 
+migração  | migração, migração, Migrações_humanas, Movimento_migratório 
+funções  | emprego, função, lugar, ocupação, ofício, profissão, serviço, trabalho, função, papel, função, Papel_social, função, propósito, função, subrotina, sub-rotina, Sub-rotina, função, função 
+equipamentos  | aparato, aparelho, dispositivo, equipamentos, ferramenta, instrumento, mecanismo, equipamento, equipamentos, ferramenta, apetrechos, equipamentos 
+relés  | relé, Relê 
+armários  | armário, bufete, prateleiras, armário, estante, armário, armário, estante, guarda-roupas, armário, armário, estante, guarda-roupas, Guardarroupas 
+plataforma  | ancoradouro, molhe, píer, plataforma, plataforma, cais, plataforma 
+hardware  | hardware 
+software  | programa, software, Software, suporte_lógico, programa, software, Software, suporte_lógico 
+confiabilidade  | confiabilidade, fé 
+askem  |  
+fim  | fim, ideia, intenção, objetivo, ponto_de_mira, chegada, conclusão, fim, resultado, fim, traseiro, conseqüência, efeito, efeitos, fim, resultado, fim, morte, queda, cabo, conclusão, fim, prazo, término, acabamento, conclusão, fim 
+empreendimento  |  
+máquinas  | auto, automóveis, automóveis_particulares, automovel, automóvel, carro, máquina, veículo, viatura, máquina, motor, motores, locomotiva, locomotivas, máquina, máquina, maquinaria, máquina, Máquina_simples, Máquinas_Simples, máquina, maquinaria, máquina, mecanismo, máquina 
+engenharia  | engenharia, tecnologia, ciência_aplicada, ciências_aplicadas, Ciências_aplicadas, engenharia, tecnologia 
+protetores  | defensor, guarda, guardião, protetor, tutor 
+compressores  | compressor 
+substituição  | mudança, substituição, substituição_(processos_químicos), reposição, substituição, substituição 
+chaves  |  
+processo  | procedimento, processo, processo, processos, causa, processo, causa, pleito, processo, processo_judicial, julgamento, processo, Processo, julgamento, processo, Processo, processo 
+pressostatos  |  
+nível  | nível, Nível, nível, Nível, ápice, fase, grau, nível, classe, nível, posto 
+função  | emprego, função, lugar, ocupação, ofício, profissão, serviço, trabalho, função, papel, função, Papel_social, função, propósito, função, subrotina, sub-rotina, Sub-rotina, função, função 
+iniciador  |  
+comando  | Comando, ordem, comando 
+transmissores  | transmissor 
+mA  |  
+válvulas  | balança, escala, prato, válvula, válvula, valva, válvula, válvula 
+solenoides  | Solenoide, Solenóide 
+curso  | caminho, conduta, corrente, curso, aula, curso, aula, classe, curso, ano, classe, curso, curso, curso, curso, Direção, Direcção, rumo, curso, curso, caminho, curso, curso 
+adequação  | adequabilidade, adequação, conveniência, adequação, idoneidade, adequação, adequação, suficiência 
+malhas  | cota_de_malha, Cota_de_malha, malha, collant, malha, malha, rede, trama 
+proteção  | proteção, protecção, defesa, proteção, mecenato, proteção 
+conceitual  |  
+req  |  
+mínimos  |  
+rojeto  |  
+Descrição  | descrição, declaração, descrição, Descrição, declaração, descrição, Descrição, descrição, descrição, caracterização, caraterização, descrição, descrição, desenho, ilustração, retrato 
+Número  | magnitude, medida, número, quantia, quantidade, grandeza, magnitude, número, número, quantidade, Quantidade, número, número, quantidade, soma, montante, número, soma, totalizar, número, número, número, número_telefônico, telefone, número, numeral, número, número, cifra, número, numeral_cardinal, Numero, número, Número, numeral_cardinal, Numero, número, Número, algarismo, dígito, número, número, zero 
+revisão  | acompanhamento, revisão, revisão, revisão 
+Painel  | painel, painel_de_bordo, painel_de_instrumentos, painel, painel 
+Relatório  | relato, relatório 
+Conformidade  | conformidade, conformidade, conformidade, conformismo, acordo, aliança, aprovação, conformidade, consenso, pacto, aprovação, aquiescência, assentimento, concessão, conformidade, consentimento, acordo, conformidade, acordo, ajuste, concordância, conformidade, convenção, acordo, concórdia, conformidade, contratos_administrativos, harmonia, acordo, concórdia, conformidade, harmonia, paz, acordo, conformidade 
+produção  | actividades_de_produção, produção, produção, produção, produção, produção, bens, produção, produções, produto, produtos, fruto, produção, produto, cinema, filme, filmes, película, produção, apresentação, produção, produção 
+etileno  |  
+área  | área, área, zona, área, região 
+Compressão  | compressão, pressão, compressão, contração, compressão 
+compressão  | compressão, pressão, compressão, contração, compressão 
+gás  | flato, flatulência, gás, peido, estado_gasoso, gás, gás, Gás, Gases, gás, Gás, Gases 
+carga  | carga, carga, carga, fardo, preocupação, carga, load_average 
+áreas  | alcance, áreas, escopo 
+refrigeração  | arrefecimento, esfriamento, refrigeração, arrefecimento, esfriamento, referigeração, refrigeração 
+sistemas  | sistema, sistema, sistema, sistema, estrutura, ordem, organização, sistema, sistema, organização, sistema, sistema 
+componentes  | componente, parte, componente, ingrediente, componente, componente, fator, parte, categoria, componente, parte, porção, componente, elemento, componente, unidade 
+aração  |  
+tecnologias  | engenharia, tecnologia, ciência_aplicada, ciências_aplicadas, Ciências_aplicadas, engenharia, tecnologia 
+manutenção  | manutenção, manutenção, pão, manutenção, manutenção_do_ambiente 
+sujeito  | sujeito, Sujeito, sujeito, Sujeito 
+falhas  | falha, insucesso, erro, falha, fracasso, engano, equívoco, erro, falha, falha, descontinuidade, falha, defeito, erro, falha, Flaw 
+indisponibilidade  |  
+segurança  | segurança, segurança, certeza, segurança, segurança, segurança, segurança, segurança 
+Diretor  | administrador, diretor, gerente, regente, director, diretor, diretor, presidenta, presidente, director, directora, diretor, diretora 
+painéis  | painel, painel_de_bordo, painel_de_instrumentos, painel, painel 
+lugar  | localização, lugar, ponto, emprego, função, lugar, ocupação, ofício, profissão, serviço, trabalho, lugar, posição, lugar, espaço_extra-atmosférico, lugar, lugar, local, lugar, posição, local, lugar, situação, lugar, assento, cadeira, lugar, lugar, posição, posto, lugar, paradeiro, condições_sociais, lugar, posto, status_social 
+controladores  | controlador, controlador, driver_de_dispositivo, contabilista, contador, controlador 
+tecnologia  | engenharia, tecnologia, ciência_aplicada, ciências_aplicadas, Ciências_aplicadas, engenharia, tecnologia 
+disponibilidade  | acessibilidade, disponibilidade 
+planta  | flora, planta, vegetal, vida_vegetal, planta, Planta, planta, Planta, diagrama, Diagrama, Diagramas, esquema, figura, imagem, plano, planta 
+siglas  | monograma, Monograma, sigla, acrografia, acrograma, acronimo, acrónimo, acrônimo, Acrônimo, Acrónimos, sigla 
+definições  | definição, definição 
+s  | s 
+documento  | documento, documentos, documentação, documento, documentos, documento, documentos 
+ABS  |  
+conso  |  
+botoeiras  |  
+controle  | controle, inspeção, limite, verificação, controle, controle, controle_remoto, controlo_remoto, Controlo_remoto, controle, controle 
+plantas  | flora, planta, vegetal, vida_vegetal, planta, Planta, planta, Planta, diagrama, Diagrama, Diagramas, esquema, figura, imagem, plano, planta 
+Modelo  | modelo, esquema, modelo, ícone, ídolo, modelo, perfeição, exemplo, modelo, modelo, molde, norma_técnica, Padrões, clichê, gabarito, modelo, molde, predefinição, manequim, modelo, modelo 
+dispositivos  | aparato, aparelho, dispositivo, equipamentos, ferramenta, instrumento, mecanismo, dispositivo 
+mable  |  
+Sistema  | sistema, sistema, sistema, sistema, estrutura, ordem, organização, sistema, sistema, organização, sistema, sistema 
+dor  | aflição, dor, mágoa, pesar, tristeza, angústia, dor, Dor, angústia, dor, Dor, agonia, dor, martírio, tormento, tortura, dor, sofrimento, consternação, dor, medo, pavor, temor, desgosto, dor, mágoa, pesar, tristeza, amargura, coração_partido, desgosto, dor, pesar, tristeza, dor, cefaleia, dor, dor_de_cabeça, dor, dor 
+Testes  |  
+Módulos  |  
+redundância  | redundância, redundância, repetição, redundância 
+pirólise  | Pirolise, pirólise 
+isolação  | isolação, isolamento 
+relação  | conexão, relação, relação, ligação, parentesco, relação, relacionamento, ligação, relação, pertinência, relação, relevância, relação, relação, afinidade, parentesco, relação, parentesco, relação, relação, relacionamento, ligação, relação 
+parte  | parcela, parte, componente, parte, fração, fracção, parte, parte, porção, parte, componente, fator, parte, capítulo, parte, seção, parte, pedaço, porção, secção, tomo, parte, componentes_das_plantas, fragmento, parte, parte, quinhão, categoria, componente, parte, porção 
+escopo  | alcance, áreas, escopo 
+abela  |  
+Tabela  | tabela, tabela, tabelação, tabuada, tabela 
+Relação  | conexão, relação, relação, ligação, parentesco, relação, relacionamento, ligação, relação, pertinência, relação, relevância, relação, relação, afinidade, parentesco, relação, parentesco, relação, relação, relacionamento, ligação, relação 
+Termopar  | termopar 
+DI  |  
+sinais  | gesto, sinal, lunar, mancha, marca_de_nascença, pinta, sinal, sinal, Sinalização_telefônica, agouro, indicação, indício, presságio, sinal, aceno, emblema, Simbolo, símbolo, Símbolos, sinal, semáforo, sinal, sinal_de_trânsito, sinal, entrada, sinal, sinal, sombra, traço, vestígio 
+campo  | campo, disciplina, domínio, terreno, campo, terreno, campo, teatro, Teatro_de_operações, Teatro_de_Operações, campo, campos, terreno, campo, áreas_rurais, campo, Zona_rural, Zona_Rural, campo 
+caixas  | caixa, caixa, ataúde, caixa, caixão, esquife, féretro, caixa, contêiner, contentor, contentores, continente, jarro, vasilha, vaso, caixa, gaveta, caixa, porquinho-mealheiro, caixa, carcaça, caixa, Caixa, caixa, Caixa, caixa, de, ferramentas, banqueiro, caixa, multibanco, cache, Caixa, dinheiro, em_espécie, numerário 
+junção  | junção, ligação, junção, unificação, conjunção, junção, ligação, articulação, junção, ligação 
+agrupamento  | agrupamento, aglomeração, agrupamento, baderna, barafunda, batalhão, chusma, correição, debandada, enxame, estouro_da_boiada, horda, legião, leva, manada, massa, multidão, mundaréu_de_gente, nuvem, roda-viva, tropel, turba, turbamulta, turbilhão, turma 
+pares  | dupla, par, par, parelha, igual, par, pário, par, par 
+cabos  | cabo, cabos, cabos, Linha_de_transmissao, linha_de_transmissão, linhas_eléctricas, cabeceiros, Cabo, Cabos, promontório 
+multi  |  
+encaminhamento  |  
+sala  | antecâmara, antessala, átrio, saguão, sala, vestíbulo, quarto, sala, sala, sala_de_estar, salão, gabinete, sala, hall, sala, corredor, saguão, sala, sala, sala_de_estar, salão, sala, aposento, câmara, quarto, sala, sala, sala_de_estar 
+EM  |  
+racks  |  
+tipo  | categoria, classe, espécies, género, raça, tipo, classe, espécie, género, tipo, variedade, espécie, estilo, género, tipo, classe, espécie, espécies, género, tipo, variedade, classe, faça, make, tipo, espécie, género, jaez, laia, qualidade, tipo, variedade, classe, tipo, tipo, tipo 
+porta  | porta, portão, porta, portão, Portas, porta, portão, acesso, entrada, porta, portão, pórtico, escapatória, porta, saída, porta, portão, porta 
+iniciadores  |  
+chapa  | chapa, placa, chapa, lousa, placa, chapa, laje, lousa, placa, chapa, estêncil 
+réguas  | régua, régua, Régua, régua, Régua, régua 
+borne  |  
+entrada  | entrada, ingresso, entrada, acesso, entrada, porta, portão, pórtico, boca, entrada, entrada, portal_web, portão, antepasto, entrada, entrada, sinal 
+saída  | saída, escapatória, porta, saída 
+eletrônica  | electrónica, Eletronica, Eletrónica, eletrônica, Eletrônica, electrónica, Eletronica, Eletrónica, eletrônica, Eletrônica 
+variáveis  |  
+eletrônicos  |  
+termopar  | termopar 
+cartões  | carta, cartão, cartas_geográficas, cartão, cartão, papelão 
+série  | série, série, World_series, World_Series, sequência, série, série 
+painel  | painel, painel_de_bordo, painel_de_instrumentos, painel, painel 
+instrumentação  | instrumentação 
+Figura  | figura, diagrama, Diagrama, Diagramas, esquema, figura, imagem, plano, planta, desenho, figura, ilustração, imagem, pintura, desenho, efígie, figura, ilustração, imagem, desenho, figura, ilustração, imagem, desenho, figura, ilustração, mapa, mapas, desenho, figura, foto, fotografia, fotografia_(imagem), ilustração, imagem, retrato, desenho, figura, fotografia, ícone, Ícone, ilustração, imagem, afiguração, desenho, ficheiro_gráfico, figura, ilustração, imagem, quadro, desenho, esquema, figura, ilustração, plano, projeto, desenho, figura, ilustração, figura, figura 
+sinal  | gesto, sinal, lunar, mancha, marca_de_nascença, pinta, sinal, sinal, Sinalização_telefônica, agouro, indicação, indício, presságio, sinal, aceno, emblema, Simbolo, símbolo, Símbolos, sinal, semáforo, sinal, sinal_de_trânsito, sinal, entrada, sinal, sinal, sombra, traço, vestígio 
+Fig  |  
+Encaminhamento  |  
+bornes  |  
+forma  | forma, forma_geométrica, formato, forma, jeito, maneira 
+tipos  | categoria, classe, espécies, género, raça, tipo, classe, espécie, género, tipo, variedade, espécie, estilo, género, tipo, classe, espécie, espécies, género, tipo, variedade, classe, faça, make, tipo, espécie, género, jaez, laia, qualidade, tipo, variedade, classe, tipo, tipo, tipo 
+subestação  |  
+posição  | cargo, posição, posição, posição, colocação, localização, posição, situação, espaçamento, posição, atitude, posição, postura, posição, posição, posição_ereta, postura, atitude, posição, postura, lugar, posição, posição, local, lugar, posição, posição, posição, posição, lugar, posição, posto, classe, condição, estado, posição, status, posição, posição, classe, hierarquia, posição, posto 
+motorizadas  |  
+sinalização  | sinalização 
+motores  | máquina, motor, motores, motor, motores 
+fins  | fim, ideia, intenção, objetivo, ponto_de_mira, chegada, conclusão, fim, resultado, fim, traseiro, conseqüência, efeito, efeitos, fim, resultado, fim, morte, queda, cabo, conclusão, fim, prazo, término, acabamento, conclusão, fim 
+d  | d 
+interface  | interface 
+diretame  |  
+lógica  | lógica, lógica, lógica, Lógica, lógica, Lógica, lógica, lógica 
+figura  | figura, diagrama, Diagrama, Diagramas, esquema, figura, imagem, plano, planta, desenho, figura, ilustração, imagem, pintura, desenho, efígie, figura, ilustração, imagem, desenho, figura, ilustração, imagem, desenho, figura, ilustração, mapa, mapas, desenho, figura, foto, fotografia, fotografia_(imagem), ilustração, imagem, retrato, desenho, figura, fotografia, ícone, Ícone, ilustração, imagem, afiguração, desenho, ficheiro_gráfico, figura, ilustração, imagem, quadro, desenho, esquema, figura, ilustração, plano, projeto, desenho, figura, ilustração, figura, figura 
+arquitetura  | arquitectura, Arquitectura, Arquitetura, arquitectura, arquitetura, arquitectura, arquitetura 
+informações  | informação, dado, datum, informação, informação, informação, notícias, informação, dados, Dados, informação 
+diagramas  | diagrama, Diagrama, Diagramas, esquema, figura, imagem, plano, planta 
+coma  | coma 
+ndar  |  
+armário  | armário, bufete, prateleiras, armário, estante, armário, armário, estante, guarda-roupas, armário, armário, estante, guarda-roupas, Guardarroupas 
+circuitos  | circuito, circuito_elétrico, Circuitos_eletrônicos 
+cartão  | carta, cartão, cartas_geográficas, cartão, cartão, papelão 
+eletrôni  |  
+média  | média, Média, Médias, média, Média, Médias, canteiro_central, média, mediana, média 
+capacitores  | capacitor 
+resistores  | resistor 
+diodos  |  
+bobinas  | bobina, carretel, carrinho 
+anos  | ano, classe, curso, ano, idade, velhice, ano, ano, ano, ano_trópico, ano, ano, ano, ano, ano, sesta, sono 
+fabricação  | construção, fabricação, fabricação, fabrico, fabricação 
+falha  | falha, insucesso, erro, falha, fracasso, engano, equívoco, erro, falha, falha, descontinuidade, falha, defeito, erro, falha, Flaw 
+obsolescência  | obsolescência 
+modo  | caminho, ferramenta, jeito, maneira, meio, modo, modo, modalidade, modo 
+eletromecânicos  |  
+uso  | uso, uso, utilização 
+rmários  |  
+final  |  
+vida  | vida, alma, vida, alacridade, furor, vida, vida, vida, vida, vida, Vida, vida, Vida, existência, vida, animação, vida, vida, duração_de_uma_vida, vida, vida, vida, dia-a-dia, dias, vida 
+número  | magnitude, medida, número, quantia, quantidade, grandeza, magnitude, número, número, quantidade, Quantidade, número, número, quantidade, soma, montante, número, soma, totalizar, número, número, número, número_telefônico, telefone, número, numeral, número, número, cifra, número, numeral_cardinal, Numero, número, Número, numeral_cardinal, Numero, número, Número, algarismo, dígito, número, número, zero 
+conexões  | conexão, relação, conexão, conexão, ligação 
+condições  | condição, estado, situação, condição, estado, Estado, situação, condição, situação, classe, condição, estado, posição, status 
+volume  | gritaria, intensidade_sonora, volume, extensão, quantidade, volume, livro, volume, volume 
+interior  | interior, entre, interior, áreas_rurais, interior, roça 
+tendência  | tendência, tendência, predisposição, tendência, inclinação, propensão, tendência, tendência, tendência, tendência, tendência, tendência, predisposição, tendência, predileção, preferência, tendência, tendência, tendência 
+aumento  | aumento, aumento, ampliação, aumento, expansão, acrescentamento, aumento, amplificação, aumento, Ganho, aumento, aumento, aumento_de_custos, Aumento, aumento, crescimento, aumento, acréscimo, aumento, crescimento, incremento, aumento 
+Arquitetura  | arquitectura, Arquitectura, Arquitetura, arquitectura, arquitetura, arquitectura, arquitetura 
+elementos  | componente, elemento 
+Falha  | falha, insucesso, erro, falha, fracasso, engano, equívoco, erro, falha, falha, descontinuidade, falha, defeito, erro, falha, Flaw 
+facilidade  | facilidade, naturalidade 
+existência  | existência, Existência, forma_de_vida, ser, existência, Existência, forma_de_vida, ser, existência, existência, vida 
+demanda  | demanda, procura, demanda, pedido 
+danos  | avaria, dano, estrago, prejuízo, dano, ferimentos, inchaço, lesão, mal, traumatismo 
+exemplo  | exemplo, exemplo, exemplo, modelo, exemplar, exemplo, exemplo, lição, caso, exemplo, ocasião, ocorrência 
+queima  |  
+bobina  | bobina, carretel, carrinho 
+trip  |  
+caso  | caso, caso, exemplo, ocasião, ocorrência 
+condição  | condição, estado, situação, condição, estado, Estado, situação, condição, situação, classe, condição, estado, posição, status 
+inte  |  
+contatos  | contato, ligação, contato, toque, batida, contato, contacto, contato, contacto, contato 
+eventos  | acontecimento, evento, fato, acontecimento, evento, ocorrência, acontecimento, evento, eventualidade, evento, incidente 
+CONSULTA  | consulta, consulta 
+Arranjo  | arranjo, transcrição, arranjo 
+premissas  | premissa, pressuposto, premissa 
+desenvolvimento  | desenvolvimento, desenvolvimento, exploração 
+situação  | condição, estado, situação, colocação, localização, posição, situação, local, lugar, situação, condição, estado, Estado, situação, situação, condição, situação 
+detalhamento  |  
+oportunidade  | chance, oportunidade 
+parada  | inadimplência, não_cumprimento, parada, etapa, parada, Desfile, formaremparada, parada 
+referência  | Referência, citação, menção, referência, alusão, referência, referência 
+lógicas  | lógica, lógica, lógica, Lógica, lógica, Lógica, lógica, lógica 
+modelo  | modelo, esquema, modelo, ícone, ídolo, modelo, perfeição, exemplo, modelo, modelo, molde, norma_técnica, Padrões, clichê, gabarito, modelo, molde, predefinição, manequim, modelo, modelo 
+forno  | fogão, fornalha, fornalhas, forno, forno, forno, fornos, cozinha, fogões, forno 
+r  | r 
+flexibilidade  | adaptabilidade, flexibilidade, flexibilidade 
+ar  | ar, atmosfera, ar, atmosfera, ambiência, ar, atmosfera, ar, ar 
+turbina  | turbina, Turbina, turbinas, turbina, Turbina, turbinas 
+ásico  |  
+estudos  | estudo 
+estudo  | estudo 
+intervalo  | intervalo, pausa, intervalo, intervalo, intervalo, intervalo, intervalo_de_tempo, tempo, intervalo 
+teste  | exame, examinação, teste, experiência, teste, exame, teste, teste, esforço, tentativa, teste, audição, ensaio, teste, teste, inspeção, inspecção, teste, teste, repetição, teste, teste, experiência, experiência_científica, Experiências_científicas, experimento, teste, exame, teste, prova, quiz, Quiz, teste 
+mesmos  |  
+instrumentos  | ferramenta, instrumento, aparato, aparelho, dispositivo, equipamentos, ferramenta, instrumento, mecanismo, ferramenta, ferramenta_de_programação, instrumento, aparelho, ferramenta, instrumento, instrumento_musical, instrumento, instrumento_musical, ferramenta, implemento, instrumento, instrumento_musical, atestado, Certificado, escritura, instrumento 
+ção  |  
+marcação  | marcação 
+gerenciamento  | administração, gerenciamento, gestão 
+ativo  | activos, Ativo, recursos, vozactiva 
+sugestão  | indício, pista, sugestão, proposição, proposta, sugestão, sugestão 
+plaqueta  | plaqueta, plaquetas, Plaqueta_sanguínea, trombócito 
+identificação  | identificação, identificação, identificação, reconhecimento, identificação, bilhete_de_identidade, carteira_de_identidade, identificação 
+malha  | cota_de_malha, Cota_de_malha, malha, collant, malha, malha, rede, trama 
+documentações  | documentação, documentação, documento, documentos 
+local  | local, lugar, posição, local, lugar, situação 
+poder  | poder, força, poder, robustez, vigor, abundancia, poder, riqueza 
+aplicações  | aplicação, ministração, aplicação, utilização, aplicação, coerção, cumprimento, cumprimento_(legal), execução, imposição, observação, aplicação, aplicativo, programa_aplicativo 
+cenários  | cenário 
+método  | metodo, método, Método, métodos, técnica, metodo, método, Método, métodos, técnica 
+rede  | rede, rede_de_computadores, Rede_de_Computadores, estofo, fazenda, pano, produtos_têxteis, rede, tecido, tecidodelã, Tecido_têxtil, têxteis, rede, rede, Rede_de_descanso, malha, rede, trama, rede, rede, rede, arapuca, armadilha, rede, rede, estrutura, rede, rede 
+relatório  | relato, relatório 
+conformidade  | conformidade, conformidade, conformidade, conformismo, acordo, aliança, aprovação, conformidade, consenso, pacto, aprovação, aquiescência, assentimento, concessão, conformidade, consentimento, acordo, conformidade, acordo, ajuste, concordância, conformidade, convenção, acordo, concórdia, conformidade, contratos_administrativos, harmonia, acordo, concórdia, conformidade, harmonia, paz, acordo, conformidade 
+inclusão  | inclusão, inclusão, inclusão 
+padrão  | padrão, standard, norma, normas, norma_social, padrão, padrões 
+vapor  | barco_a_vapor, vapor, Evaporaçao, evaporação, vapor, vapor, vapor, vapor_d’água, Vapor_de_água, evaporação, vapor 
+elemento  | componente, elemento 
+desmembramento  | desmembramento, Desmembramento, Pessoas_executadas_por_desmembramento, desmembramento, Desmembramento, Pessoas_executadas_por_desmembramento 
+época  | dia, época, era, momento, período, tempo, tempo_(parâmetro), época, período, época, período, época, era, Escala_de_tempo_geológico, idade, período, século, tempo, época, era, idade, período 
+instalação  | instalação, prestação, infra-estrutura, instalação, serviço, instalação 
+poço  | chaminé, poço, poço, buraco, cavouco, fosso, poço, vala 
+intertravamentos  |  
+segregação  | segregação, segregação 
+alimentação  | Alimentação, alimentação, alimentação, alimento, comida, nutrição, nutrientes, pão 
+VCA  |  
+fontes  | fonte, fontes, fontes_(água), Fontes_e_chafarizes, Fontes_e_Chafarizes 
+alarme  | alarme, Alarmes, chamado_às_armas, alarme, aviso 
+data  | data, dia, data 
+fornecimento  | abastecimento, fornecimento, emissão, envio, fornecimento, fornecimento, fornecimento, provisão 
+montagem  | montagem, montagem 
+quantidade  | magnitude, medida, número, quantia, quantidade, extensão, quantidade, volume, número, quantidade, Quantidade, número, quantidade, Quantidade, quantidade, número, quantidade, soma 
+cargas  | carga, carga, carga, fardo, preocupação, carga, load_average 
+barreiras  | barreira, obstáculo, barreira, cerca, estacada, paliçada, barreira, obstáculo, barreira, obstáculo, barreira, obstáculo 
+projetos  | projeto, desenho, projeto, esquema, plano, projeto, concepção, ideia, intenção, plano, planos, programa, programação, projecto, projeto, traçado, desenho, esquema, figura, ilustração, plano, projeto, desenho, plano, projeto 
+geração  | geração, espécie_humana, geração, homem, humanidade, mundo, povo, geração, geração, geração 
+fonte  | chafariz, fonte, fonte, fontes, fontes_(água), Fontes_e_chafarizes, Fontes_e_Chafarizes, fonte, origem, fonte, manancial, nascente, procedência, prosedensia, raiz, fonte, manancial, nascente, fonte, código-fonte, fonte 
+quanti  |  
+dade  |  
+comunicação  | comunicação, mensagem, comunicação, comunicado, uma_comunicação, comunicação, correspondência, anúncio, aviso, comunicação, aviso, aviso_prévio, comunicação, nota, notificação 
+gerenciador  |  
+ativos  | activos, Ativo, recursos, vozactiva 
+interligação  | interligação 
+t  | t 
+odos  |  
+informação  | informação, dado, datum, informação, informação, informação, notícias, informação, dados, Dados, informação 
+temperatura  | calor, temperatura, Temperatura, temperatura_do_ar, calor, temperatura, Temperatura, temperatura_do_ar, febre, temperatura 
+mV  |  
+migrações  | migração, migração, Migrações_humanas, Movimento_migratório 
+bypass  |  
+portas  | porta, portão, Portas 
+passagem  | passagem, transição, corredor, passadiço, passagem, corredor, corredor_ecológico, corredores_ecológicos, galeria, passagem, corredor, corredor_ecológico, corredores_ecológicos, galeria, passagem, túnel, viela, passagem, excerto, extrato, passagem, trecho, bilhete, passagem, passagem 
+rearranjo  | rearranjo 
+borneiras  |  
+multicabos  |  
+lado  | lado, face, lado, lado, lado 
+eixos  | eixo, eixo, veio, Eixo 
+espaço  | espaço, espaço, espaço 
+concentradores  |  
+anunciador  | anunciador, anunciadora, locutor 
+alarmes  | alarme, Alarmes, chamado_às_armas 
+co  |  
+interposição  |  
+contato  | contato, ligação, contato, toque, batida, contato, contacto, contato, contacto, contato 
+capacidade  | capacidade, competência, habilidade, Incompetência, abilidade, capacidade, habilidade, capacidade, habilidade, potencialidade, capacidade, faculdade, habilidade, talento, capacidade, talento, capacidade, capacitância, capacidade, conteúdo, teor, capacidade 
+remoção  | eliminação, remoção 
+EMs  |  
+PLCs  |  
+NOVO  |  
+exceções  | elisão, exceção, excepção, exclusão, exceção, excepção, exceção, excepção 
+premissa  | premissa, pressuposto, premissa 
+base  | alicerce, base, pé, base, pedestal, suporte, base, base, base, álcali, base, Bases, bases_(química) 
+p  | p 
+porão  | cave, porão 
+eletrocalhas  |  
+bandejas  | bandeja, prato, travessa, bandeja, Bandeja, bandeja, Bandeja 
+parad  |  
+hamento  |  
+baixo  | baixo, Baixo, baixo, Baixo, baixo, baixo_elétrico, contrabaixo, baixo, fagote, baixo, baixo, Baixo, Baixos, baixo, Baixo, Baixos 
+execução  | execução, implementação, realização, desempenho, execução, realização, aplicação, coerção, cumprimento, cumprimento_(legal), execução, imposição, observação, cumprimento, execução, Implementação_de_software, realização, execução, pena_capital, pena_de_morte, Pena_de_morte, punição_importanta, execução 
+cronograma  | cronograma, horário, ordem_do_dia, plano, programa, agenda, cronograma, horário, programa 
+cab  |  
+etiqueta  | cerimonial, etiqueta, Regras_de_etiqueta, etiqueta, rótulo, etiqueta, etiqueta, apanhada, etiqueta, marca_sgml, pega-pega, tag, tag_xml 
+DESATIVADO  |  
+PLC  |  
+sso  |  
+Caixas  | caixa, caixa, ataúde, caixa, caixão, esquife, féretro, caixa, contêiner, contentor, contentores, continente, jarro, vasilha, vaso, caixa, gaveta, caixa, porquinho-mealheiro, caixa, carcaça, caixa, Caixa, caixa, Caixa, caixa, de, ferramentas, banqueiro, caixa, multibanco, cache, Caixa, dinheiro, em_espécie, numerário 
+ser  | ente, entidade, ser, criatura, organismo, ser, ser_vivo, animal, besta, bicho, criatura, ser, criança, criatura, ser, existência, Existência, forma_de_vida, ser 
+eletrodutos  |  
+reservas  | reserva, reservas, reservas_(ecologia) 
+configuração  | configuração, Configuração, configuração, Configuração 
+trips  |  
+indicação  | evidência, indicação, indicação, agouro, indicação, indício, presságio, sinal, indicação 
+telas  | tela, linho, pano, tela, biombo, ecrã, tela 
+mapa  | Grafico, gráfico, mapa, desenho, figura, ilustração, mapa, mapas 
+saídas  | saída, escapatória, porta, saída 
+atualização  | actualização, atualização 
+previsão  | antecipação, previsão, previsão, previsão, previsão, predição, previsão, prognóstico, previsão, prognose, prognóstico 
+par  | dupla, par, par, parelha, igual, par, pário, par, par 
+protocolo  | protocolo, Protocolos_Internet, protocolo, protocolo 
+segmentação  | divisão, partição, segmentação, separação, segmentação 
+estação  | estação, estação_de_trem, estação_ferroviária, Estação_ferroviária, estações_ferroviárias, Estações_ferroviárias, estação, estações_(transportes), estação, estação, Estação_do_ano, Estações_do_ano, período, sazão, tempo, estação, tempo, temporada, estação, estações_(clima), tempo, temporada 
+SDCD  |  
+compra  | aquisição, compra, aquisição, coisacomprada, compra, aquisição, compra, gestão_de_compras, compra, sucessão, aquisição, compra 
+definição  | definição, definição 
+infraestrutura  | infraestructura, infraestrutura, infra-estrutura, infra-estruturas, infraestructura, infraestrutura, infra-estrutura 
+folga  | aurora, folga, madrugada, Madrugada, romper_do_dia 
+pontos  | localização, lugar, ponto, ponto, sutura, ponto, ponto, ponto, Ponto_percentual, marco, ponto, ponto, ponto_final, ponto-final, Ponto_final, Ponto, ponto 
+estimativas  | avaliação, cálculo, estimativa 
+atenção  | atenção, concentração 
+ranges  |  
+medição  | medição, medida, mensuração, medição, Metrologia, Medição, Medida, unidade, unidade_de_medida 
+sobrerrange  |  
+range  |  
+faixas  | faixa, faixa, faixa_de_pedestres, passadeira, faixa, beco, caminho, faixa, pista 
+operação  | operação, operação, procedimento, cirurgia, Cirurgia, operação, operação_cirúrgica, cáculo, operação, manobra, operação, operação, operação 
+Sinais  |  
+instrumento  | ferramenta, instrumento, aparato, aparelho, dispositivo, equipamentos, ferramenta, instrumento, mecanismo, ferramenta, ferramenta_de_programação, instrumento, aparelho, ferramenta, instrumento, instrumento_musical, instrumento, instrumento_musical, ferramenta, implemento, instrumento, instrumento_musical, atestado, Certificado, escritura, instrumento 
+atuação  | atuação, interpretação, representação, atuação 
+ponto  | localização, lugar, ponto, ponto, sutura, ponto, ponto, ponto, Ponto_percentual, marco, ponto, ponto, ponto_final, ponto-final, Ponto_final, Ponto, ponto 
+módulos  | módulo, módulo, módulo 
+diagnóstico  | diagnose, diagnóstico, diagnóstico 
+valores  | importância, valor, lucro, operacionalidade, utilidade, valor, valor 
+transmissor  | transmissor 
+detecção  | detecção, detecção, detecção 
+limites  | controle, inspeção, limite, verificação, aba, borda, fronteira, limite, fronteira, limitação, limite, limite, máximo, confins, fronteira, limite, fronteira, fronteiras, limite, borda, delimitação, fronteira, limite, borda, fronteira, limite, margem, fronteira, limite, limite, perímetro, borda, fronteira, limite, margem_interior, borda, fronteira, limite, perímetro, borda, limite, margem, periferia, borda, fronteira, fronteiras_nacionais, limite, margem 
+saturação  | enchimento, enchimento_(materiais), saturação 
+casos  | caso, caso, exemplo, ocasião, ocorrência 
+sentido  | sentido, sentido, senso, sentido, intenção, sentido, significado, acepção, sentido, significação, significado 
+diminuição  | diminuição, redução, abatimento, contracção, diminuição, abatimento, depleção, diminuição, abatimento, diminuição, abatimento, diminuição, abatimento, diminuição 
+pressão  | imprensa, pressão, compressão, pressão, pressão, pressão, pressão, pressão_atmosférica, pressão, instância, pressão 
+purga  |  
+partida  | partida, despedida, partida, partida, ignição, Ignição_automotiva, partida, certame, competição, concurso, jogo, partida, torneio, combate, luta, partida, partida 
+usados  |  
+folha  | folha, folhadelata, lata, placa, folha, folha, folha_de_lata, lámina_de_metal, lata, folha, folha_de_papel, folhas, papel, folha, folhas, folha, folha, jornal, Jornal, papel_de_periódico, folha, gazeta, jornal, folha, folha, folhagem, folhas, folha, folha, papel 
+dados  | dados, Dados, informação, dados, Dados, informação 
+vazão  |  
+entradas  | entrada, ingresso, entrada, acesso, entrada, porta, portão, pórtico, boca, entrada, entrada, portal_web, portão, antepasto, entrada, entrada, sinal 
+aquisição  | aquisição, aquisição, compra, aquisição, coisacomprada, compra, aquisição, compra, gestão_de_compras, aprovisionamento, aquisição, compras, obtenção, suprimentos, aprendizagem, aquisição, aquisição, aquisição, aquisição, compra 
+tablete  |  
+gestão  | administração, gestão, administração, gerenciamento, gestão, direção, direcção, directriz, gerência, gestão 
+equipe  | equipe, companhia, equipa, equipe, time, equipagem, equipe, tripulação, Tripulação, equipe, tripulação 
+solução  | solução, resposta, solução, mistura, Misturas_químicas, solução, solução, solução, soluto, Soluto 
+sincronização  | sincronização, sincronização, sincronia, Sincronicidade, sincronismo, sincronização 
+horário  | cronograma, horário, ordem_do_dia, plano, programa, agenda, cronograma, horário, programa, horário, horário 
+fuso  | fuso 
+estrutura  | estrutura, infra, edifício, estrutura, tecido, arquitectura, arquitectura_do_computador, estrutura, Arquitectura_de_computadores, Arquitetura_de_computadores, Arquitetura_de_Computadores, estrutura, estrutura, rede, composição, constituição, estrutura, estrutura, ordem, organização, sistema 
+seções  | capítulo, parte, seção, seção 
+encaminhamentos  |  
+modificações  | ajuste, alteração, modificação, modificação, alteração, modificação, mudança, variação 
+alocação  | alocação, arrendamento_de_terras, atribuição 
+mento  | chinchilla, mento, queixo 
+lições  | lição, aula, lição, lição, exemplo, lição 
+onsecutivos  |  
+canais  | cachimbo, canais, canal, cano, chaminés_de_fábrica, condutas, conduto, ducto, duto, pipeline, tubo 
+Pontos  | localização, lugar, ponto, ponto, sutura, ponto, ponto, ponto, Ponto_percentual, marco, ponto, ponto, ponto_final, ponto-final, Ponto_final, Ponto, ponto 
+consecutivos  |  
+estações  | estação, estação_de_trem, estação_ferroviária, Estação_ferroviária, estações_ferroviárias, Estações_ferroviárias, estação, estações_(transportes), estação, estação, Estação_do_ano, Estações_do_ano, período, sazão, tempo, estação, tempo, temporada, estação, estações_(clima), tempo, temporada 
+atualizações  | actualização, atualização 
+Estações  |  
+questões  | dúvida, questão, questão, tema, problema, Problemas, questão, inquérito, pergunta, questão, indagação, inquérito, interrogação, pergunta, perguntar, questão, interrogação, pergunta, questão, qüestão 
+sobrevelocidade  |  
+proposta  | fornecimento_(comércio), proposta, proposição, proposta, sugestão 
+protetor  | defensor, guarda, guardião, protetor, tutor 
+que  |  
+eliminação  | eliminação, eliminação, remoção, eliminação, eliminação 
+isoladores  | isolador, isolante, Isolante_elétrico 
+fase  | ápice, fase, grau, nível, fase, fase, fase, fase, período 
+analógicas  |  
+traseira  | anca, culatra, garupa, rabo, traseira, traseiro 
+capítulo  | capítulo, parte, seção, capítulo, capítulo, capítulo 
+caminho  | caminho, conduta, corrente, curso, caminho, ferramenta, jeito, maneira, meio, modo, caminho, modo_de_vida, abordagens, acesso, caminho, estrada, alameda, caminho, beco, caminho, faixa, pista, caminho, estrada, trilha, caminho, caminhos, senda, trilho, trilhos, autoestradas, caminho, estrada, estradas, rodovia, via, caminho, estrada, caminho, Trilha, caminho, estrada, via, caminho, estrada, itinerário, itinerários, linha, percurso, rota, caminho, curso 
+ret  |  
+régua  | régua, régua, Régua, régua, Régua, régua 
+atual  |  
+reforma  | mudança_para_melhor, reforma, reforma 
+colocação  | colocação, depósito, colocação, posicionamento, colocação, localização, posição, situação, colocação 
+grau  | grau, dioptria, Dioptria, grau, grau, grau, ápice, fase, grau, nível, gradação, grau 
+classificação  | categorização, classificação, Sistemas_de_classificação, sortimento, classificação, categorização, classificação, Classificação, categorização, classificação, Classificação, categorização, classe, classificação, classificação 
+segur  |  
+ança  |  
+riscos  | perigo, risco, listra, risco, risco, linha, risco, traço, ameaça, perigo, risco, ameaça, perigo, risco 
+vez  | jogo, vez, vez, chance, ocasião, vez, turno, vez 
+ligações  | contato, ligação, ligação, junção, ligação, fixação, ligação, ligação, conector, ligação, conjunção, junção, ligação, agente_de_união_social, enlace, liame, ligação, vínculo, ligação, ligação_telefônica, telefonema, ligação, link, ligação, ligação_química, Ligação_Química, Ligações_químicas, ligação, parentesco, relação, relacionamento, ligação, relação, ligação, ligação, ligação, articulação, junção, ligação, ligação, relação, estado, ligação, união, conexão, ligação, coerência, coesão, ligação, conjunção, ligação, ligação, união 
+acionamento  |  
+rios  | rio 
+sinalizações  | sinalização 
+necessidade  | intenção, motivação, motivo, necessidade, necessidade, pré-requisito, requisito, desejo, necessidade, carência, necessidade, necessidade 
+longo  |  
+tempo  | espaço_temporal, tempo, ritmo, tempo, clima, tempo, clima, condições_meteorológicas, fenómenos_meteorológicos, tempo, tempo_(meteorologia), vento, etapa, período, tempo, dia, época, era, momento, período, tempo, tempo_(parâmetro), estação, Estação_do_ano, Estações_do_ano, período, sazão, tempo, estação, tempo, temporada, estação, estações_(clima), tempo, temporada, instante, momento, quando, segundo, tempo, época, era, Escala_de_tempo_geológico, idade, período, século, tempo, intervalo, intervalo_de_tempo, tempo, hora, tempo 
+majoração  |  
+quantitativo  |  
+estimativa  | avaliação, cálculo, estimativa 
+procedimentos  | operação, procedimento, procedimento, processo, comportamento, conduta, maneira, procedimento 
+mesmo  |  
+Tab  |  
+Relés  |  
+redução  | diminuição, redução, redução 
+conexão  | conexão, relação, conexão, conexão, ligação 
+potencial  |  
+ESTRATÉGIA  | estratégia, planos, táctica, estratégia, estratégia 
+orientação  | orientação, orientação, orientação, orientação, Orientação, orientação, Orientação 
+gabinete  | gabinete, sala 
+fases  | ápice, fase, grau, nível, fase, fase, fase, fase, período 
+testes  | exame, examinação, teste, experiência, teste, exame, teste, teste, esforço, tentativa, teste, audição, ensaio, teste, teste, inspeção, inspecção, teste, teste, repetição, teste, teste, experiência, experiência_científica, Experiências_científicas, experimento, teste, exame, teste, prova, quiz, Quiz, teste 
+fábrica  | casademoinho, fábrica, manufatura, usina, fábrica, produtos_industriais_(plantas), usina 
+concluída  |  
+retirada  | retirada, retirada, retirada 
+cabeamento  |  
+disposição  | Boa_vontade, disposição, Disposição, Boa_vontade, disposição, Disposição 
+armári  |  
+cont  |  
+atos  | ação, ato, feito, ação, atividade, ato, ato, ato, ato, ato_heróico, contrato, escritura_pública, feito_notável, ato 
+interligações  | interligação 
+removidos  |  
+registrador  | índices, registo, registrador 
+ordem  | estrutura, ordem, organização, sistema, Comando, ordem, ordem, ordem, mandamento, ordem, ordem, ordem, array, ordem, associações, ordem, organização, sociedade, união, fraternidade, irmandade, ordem, ordem, clube, guilda, ordem, sociedade, ordem, légua, liga, ordem, ordem, Sindicalismo, sindicato, sindicatos, ordem, círculo, grupo, ordem, Conselhos_profissionais, grêmio, ordem, ordem, ordem, Ordem 
+finalidade  | finalidade, intenção, intento, objectivo, objetivo, propósito 
+possibilidade  | possibilidade, hipótese, possibilidade, suposição, teoria, possibilidade, chance, possibilidade 
+suporte  | apoio, suporte, amparo, suporte, base, pedestal, suporte, apoio, encosto, suporte 
+aceitação  | aceitação, aceitação, adoção, adopção, aceitação, aceitação, aceitação 
+justificativas  | justificação, justificativa, justificação, justificativa, justificação, justificativa 
+abricação  |  
+Documentação  | documentação, documentação, documento, documentos 
+qualidade  | atributos, qualidade, calibre, qualidade, característica, qualidade, preço, preços, qualidade, espécie, género, jaez, laia, qualidade, tipo, variedade, atributos, carácter_distintivo, qualidade, qualidade, carácter_distintivo, característica, qualidade 
+problemas  | problema, Problemas, questão 
+retorno  | regresso, retorno, vinda, volta, restituição, retorno, regresso, retorno, faturamento, rendimento, retorno, retorno, retroalimentação 
+Dificuldade  | dificuldade, dificuldade, dificuldade, obstáculo, problema, dificuldade, obstáculo, problema, dificuldade, dissuasor, impedimento, obstáculo, dificuldade, problema, apuro, dificuldade, dificuldade, problema, treta 
+acesso  | acesso, acesso, abordagens, acesso, caminho, estrada, acesso, entrada, porta, portão, pórtico, acesso, admitância 
+carregamento  | carregamento, pão 
+defeito  | defeito, carência, defeito, deficiência, limitação, defeito, imperfeição, defeito, defeito, defeito, erro, falha, Flaw, defeito, falha_em_um_sistema_ou_máquina 
+equipamento  | armamento, equipamento, aparato, aparelho, equipamento, equipamento, equipamentos, ferramenta 
+circuito  | circuito, circuito_elétrico, Circuitos_eletrônicos 
+rack  |  
+inconvenientes  | inconveniência, inconveniente 
+itens  | item 
+transferência  | transferência, transferência, transporte, transferência, transferência 
+ocumentação  |  
+fiação  |  
+complexidade  | complexidade, complexidade, elaboração 
+ravamento  |  
+fatos  | acontecimento, evento, fato, fato, terno, traje, vestido, fato, verdade, verdades 
+horas  | hora, minuto, hora, Horário_padrão, hora, hora, semestre, hora, hora, hora, momento, hora, tempo 
+problema  | dificuldade, obstáculo, problema, dificuldade, obstáculo, problema, problema, problema, Problemas, questão, problema, dificuldade, problema, dificuldade, problema, treta 
+unidade  | todo, unidade, unidade, unidade, Medição, Medida, unidade, unidade_de_medida, componente, unidade 
+perda  | derrota, perda, forfeit, perda, perda, prejuízo, privação, perda, perda, desgaste, perda, perdas, prejuízo 
+possibilidades  | possibilidade, hipótese, possibilidade, suposição, teoria, possibilidade, chance, possibilidade 
+antecedência  | antecedência, precedência, prioridade 
+meses  | lua, mês, lua, mês, lua, mês 
+TAF  |  
+layout  | layout 
+casa  | apartamento, aposentos, casa, casa, edifício, edifícios, prédio, casa, chalé, casa, ilhó, casa, aposento, casa, domicílio, habitação, lar, morada, moradia, residência, casa, edifícios_residenciais, firma, habitação, Habitações, teatro, vivenda, casa, abrigo, abrigos, alojamentos, casa, casa, teatro, casa, casa, fabricante, agregado_familiar, casa, classe, família, linhagem, pessoa_da_família_que_mora_na_mesma_casa, casa, domicílio, residência, casa, domicílio, casa, lar, Lar, casa, lar, casa, lar 
+gabinetes  | gabinete, sala 
+requisitos  | exigência, pré-requisito, requisito, necessidade, pré-requisito, requisito 
+umidade  | humidade, umidade, humidade, umidade, humidade, umidade, umidade 
+item  | item 
+Proteção  | proteção, protecção, defesa, proteção, mecenato, proteção 
+norma  | lei, norma, regra, regulamento, regulamentos, norma, normas_jurídicas, prescrição, Norma, norma, normas, norma_social, padrão, padrões 
+corrosão  | corrosão, erosão, corrosão 
+reti  |  
+onsideradas  |  
+EMITENTE  |  
+APROV  |  
+Emissão  | emissão, envio, fornecimento, emissão, programa, emissão, tiragem, emissão, emissões, emissão 
+Comentários  | comentários 
+Assinatura  | assinatura, assinatura, subscrição 
+alternativas  | alternativa, eleição, escolha, intercorrência, opção 
+modificação  | ajuste, alteração, modificação, modificação, alteração, modificação, mudança, variação 
+Desenvolvimento  | desenvolvimento, desenvolvimento, exploração 
+EQUIPAMENTO  | armamento, equipamento, aparato, aparelho, equipamento, equipamento, equipamentos, ferramenta 
+BASES  | álcali, base, Bases, bases_(química) 
+AUTOMAÇÃO  | Automaçao, automação, automatização 
+CONTROLE  | controle, inspeção, limite, verificação, controle, controle, controle_remoto, controlo_remoto, Controlo_remoto, controle, controle 
+BLOCOS  |  
+CLASSE  | classe, Classe_escolar, sala_de_aula, classe, classe, nota, categoria, classe, família, categoria, classe, espécies, género, raça, tipo, classe, espécie, género, tipo, variedade, classe, espécie, espécies, género, tipo, variedade, classe, género, gênero, classe, faça, make, tipo, classe, tipo, classe, categorização, classe, classificação, classe, classe_social, estrato, categoria, classe, família, grupo, classe, agregado_familiar, casa, classe, família, linhagem, pessoa_da_família_que_mora_na_mesma_casa, classe, espécies, classe, família, aula, classe, curso, ano, classe, curso, classe, classe, condição, estado, posição, status, classe, nível, posto, classe, hierarquia, posição, posto, classe, graduação 
+SISTEMAS  |  
+PONTOS  |  
+HIGIENE  | higiene, Higiene, Higiéne, medidas_sanitárias, higiene, Higiene, Higiéne, medidas_sanitárias, higiene, saúde_pública 
+SEGURANÇA  | segurança, segurança, certeza, segurança, segurança, segurança, segurança, segurança 
+INSTALAÇÃO  | instalação, prestação, infra-estrutura, instalação, serviço, instalação 
+PRODUTOS  | bens, produção, produções, produto, produtos, produto, produtos, produto, produtos, produto, produtos 
+inventários  | arrolamente, inventário, inventários 
+produtos  | bens, produção, produções, produto, produtos, produto, produtos, produto, produtos, produto, produtos 
+mistura  | mistura, mistura, combinação, mistura, mistura, mixagem, mistura, mistura, encepamento, mistura, gororoba, miscelânea, mistura, mistureba, mistura, Misturas_químicas, solução 
+reações  | reação, resistência, reação, resposta 
+características  | atributo, característica, predicado, propriedade, característica, qualidade, carácter_distintivo, característica, qualidade, característica 
+toxidez  |  
+inflamabilidade  | inflamabilidade 
+estabilidade  | estabilidade, estabilidade 
+alteração  | ajuste, alteração, modificação, alteração, modificação, mudança, variação 
+parâmetros  | parâmetro, parâmetros, parâmetro, parâmetros 
+concentração  | concentração, concentração, assiduidade, concentração, concentração, densidade, Densidade, Massa_volúmica, concentração, concentrações, concentração, densidade, atenção, concentração, concentração, concentração 
+utilidades  | utilidade, benefício, handicap, lucro, utilidade, vantagem, lucro, operacionalidade, utilidade, valor 
+ções  |  
+situações  | condição, estado, situação, colocação, localização, posição, situação, local, lugar, situação, condição, estado, Estado, situação, situação, condição, situação 
+tubulações  | canal, condutas, ducto, duto, tubulação 
+alinhamentos  | alinhamento, alinhamento 
+pressões  | imprensa, pressão, compressão, pressão, pressão, pressão, pressão, pressão_atmosférica, pressão, instância, pressão 
+causa  | agente_causador, causa, causador, campanha, causa, causa, processo, causa, pleito, processo, processo_judicial, causa, causa, motivo, razão 
+sobrepressão  |  
+entupimento  |  
+bloqueio  | bloqueio 
+subpressão  |  
+vácuo  | vácuo, vacância, vácuo, vaga, vazio 
+ocorrência  | acontecimento, evento, ocorrência, caso, exemplo, ocasião, ocorrência 
+fluxo  | fluxo, fluxo, fluxo, caudal, fluxo, fluxo 
+produto  | artefato, produto, utensílio, produto, artigo, bem, Bens, fazenda, mercadoria, objecto_posto_à_venda, produto, artigo, fazenda, mercadoria, mercadorias, produto, bens, produção, produções, produto, produtos, fruto, produção, produto, produto, produtos, produto, produtos, produto, produtos 
+formação  | didáctica, educação, Educação, ensinamento, ensino, formação, instrução, formação, formação, experiência, formação, instrução, formação 
+atmosfera  | atmosfera, aura, ar, atmosfera, ar, atmosfera, ambiente, atmosfera, ambiência, ar, atmosfera 
+menos  |  
+perguntas  | apelo, encomenda, instância, oração, pedido, pergunta, petição, requerimento, requisição, solicitação, inquérito, pergunta, questão, indagação, inquérito, interrogação, pergunta, perguntar, questão, interrogação, pergunta, questão, qüestão 
+localização  | localização, lugar, ponto, localização, localização, colocação, localização, posição, situação 
+vazamentos  | rachadura, vazamento 
+fluídos  |  
+drenos  | águas_residuais, drenagem, dreno 
+bocas  | bico, boca, boca, entrada, boca, boca, goela, boca, boca 
+visita  | visita, visita, visitante, visita, visitante 
+flanges  | breio, brida, entrave, flange, pôrfreioem, flange 
+acessórios  | acessório, acessório 
+drenagens  | águas_residuais, drenagem, dreno 
+isolamentos  | insulação, isolamento, isolamento, incomunicação, isolamento, isolação, isolamento 
+realização  | conquista, consumação, façanha, feito, realização, façanha, feito, proeza, realização, execução, implementação, realização, realização, realização, obtenção, realização, desempenho, execução, realização, realização, cumprimento, execução, Implementação_de_software, realização 
+análise  | análise, análise, análise, análise_matemática 
+parecer  |  
+incompatibilidade  | incompatibilidade 
+revestimento  | revestimento, recompensa, revestimento 
+tanques  | carro_de_combate, Carro_de_Combate, tanque, Tanques, lago, lagoa, tanque, tanques 
+ensaios  | ensaios, ensaio, Ensaios 
+egurança  |  
+quebra  | quebra, Recidiva 
+posicionamento  | colocação, posicionamento 
+locais  | local, lugar, posição, local, lugar, situação 
+raquetes  | raquete, Raquete, raquete, Raquete 
+eletricidade  | electricidade, eletricidade, corrente, corrente_elétrica, electricidade, eletricidade, electricidade, eletricidade, electricidade, Electricidade, eletricidade, energia_eléctrica, potência_eléctrica 
+aterramento  |  
+alterações  | ajuste, alteração, modificação, alteração, modificação, mudança, variação 
+emergências  | emergência, emergência, crescimento, emergência, emergência, urgência 
+ações  | ação, ato, feito, ação, atividade, ato, ação, ação, ação, actividade, atividade 
+rotinas  | ramerrão, rotina 
+liberação  |  
+sequência  | sequência, sucessão, sequência, seqüência, sucessão, continuação, sequência, sequência, série, sequência, seqüência 
+sis  |  
+temas  | assunto, matéria, tema, temas, assunto, matéria, mensagem, tema, temas, tópico 
+set  |  
+algoritmos  | algoritmo, algorítmo, Algorítmo, Algoritmos 
+programa  | concepção, ideia, intenção, plano, planos, programa, programação, projecto, projeto, traçado, programa, programa, cronograma, horário, ordem_do_dia, plano, programa, programa, agenda, cronograma, horário, programa, programa, software, Software, suporte_lógico, programa, programa_de_computador, Programa_de_Computador, programas, emissão, programa, curricula, currículo, ementa, matéria, matriz, programa, programa 
+cálculo  | cálculo, avaliação, cálculo, estimativa, cálculo, Calculo, cálculo, Cálculo, Calculo, cálculo, Cálculo, cálculo 
+pergunta  | apelo, encomenda, instância, oração, pedido, pergunta, petição, requerimento, requisição, solicitação, inquérito, pergunta, questão, indagação, inquérito, interrogação, pergunta, perguntar, questão, interrogação, pergunta, questão, qüestão 
+Estudo  | estudo 
+especificação  | especificação, estipulação 
+vibração  | oscilação, vibração, Vibração, vibrações, oscilação, vibração, Vibração, vibrações 
+rotação  | rotação, rotação 
+torque  | torque 
+ITEM  | item 
+material  | materiais, material 
+pintura  | pintura, pintura, Pintura, pintura, Pintura, pintura, desenho, figura, ilustração, imagem, pintura, cor, pintura, tinta, pintura, pintura, retrato 
+isolamento  | insulação, isolamento, isolamento, incomunicação, isolamento, isolação, isolamento 
+raio  | raio, raio, relâmpago, feixe, raio, corisco, raio, relâmpago, raio, relâmpago, trovão, trovoadas, raio, raio 
+alívio  | alívio, alívio, alívio 
+tensões  | tensão, tensão_mecânica, tensão, nervosismo, tensão, nervosismo, tensão, fadiga, stress, tensão, tensão 
+líquido  | estado_líquido, liquidez, líquido, líquido, líqüido 
+inspeção  | controle, inspeção, limite, verificação, inspeção, inspecção, teste 
+classe  | classe, Classe_escolar, sala_de_aula, classe, classe, nota, categoria, classe, família, categoria, classe, espécies, género, raça, tipo, classe, espécie, género, tipo, variedade, classe, espécie, espécies, género, tipo, variedade, classe, género, gênero, classe, faça, make, tipo, classe, tipo, classe, categorização, classe, classificação, classe, classe_social, estrato, categoria, classe, família, grupo, classe, agregado_familiar, casa, classe, família, linhagem, pessoa_da_família_que_mora_na_mesma_casa, classe, espécies, classe, família, aula, classe, curso, ano, classe, curso, classe, classe, condição, estado, posição, status, classe, nível, posto, classe, hierarquia, posição, posto, classe, graduação 
+NOVOS  |  
+fluido  | fluido, líqüido 
+Exige  |  
+suportação  |  
+edificações  | construção, edificação, edificação 
+prédios  | casa, edifício, edifícios, prédio, Construções, prédio, Prédio, Construções, prédio, Prédio 
+processos  | processo, processos 
+comprometimento  |  
+funcio  |  
+pessoas  | gente, pessoas, população, povo, gente, Pessoas, povo 
+empresa  | companhia, empresa, empresas, negócios 
+resultados  | resposta, resultado, chegada, conclusão, fim, resultado, placar, resultado, resultado, conseqüência, continuação, resultado, conseqüência, efeito, efeitos, fim, resultado, resultado, resultado 
+vulnerabilidade  | debilidade, vulnerabilidade, Vulnerabilidade, debilidade, vulnerabilidade, Vulnerabilidade, exposição, vulnerabilidade 
+acidentes  | acidente, acidentes, azar, acidente, Acidentes 
+Quantitativa  |  
+análises  | análise, análise, análise, análise_matemática 
+Necessita  |  
+relocação  |  
+funcionários  | funcionário, operário 
+LÍQUIDOS  |  
+emissão  | emissão, envio, fornecimento, emissão, programa, emissão, tiragem, emissão, emissões, emissão 
+efluentes  | águas_residuais, águas_usadas, efluentes 
+emissões  | emissão, emissões 
+residuos  |  
+meio  | caminho, ferramenta, jeito, maneira, meio, modo, ambiente, cerque, entorno, meio, meio_ambiente, meio, metade, ambiente, arredores, cercanias, meio 
+ambiente  | ambiente, ambiente, região, território, ambiente, cerque, entorno, meio, meio_ambiente, ambiente, Ambiente, ambiente, Ambiente, ambiente, arredores, cercanias, meio, ambiente, atmosfera 
+agentes  | agente, agente, guarda, polícia, policial, agente 
+resíduos  | Resíduo, resíduos, Resíduos, resíduos_sólidos, Resíduo, resíduos, Resíduos, resíduos_sólidos, lixo, negar-sea, resíduos, restos_de_comida, cama_de_feno_para_animais, cama_de_palha_para_animais, detritos_residuais, lixo, resíduos, resíduos_sólidos, veículos_abandonados 
+impacto  | impacto, efeito, impacto 
+instalações  | instalação, prestação, infra-estrutura, instalação, serviço, instalação 
+tratamento  | tratamento, Assistência_médica, cuidado, cuidados_de_saúde, seguro-saúde, tratamento, tratamento, tratamento 
+questão  | dúvida, questão, questão, tema, problema, Problemas, questão, inquérito, pergunta, questão, indagação, inquérito, interrogação, pergunta, perguntar, questão, interrogação, pergunta, questão, qüestão 
+atendimento  |  
+estabilização  | estabilização 
+issões  |  
+facilidades  | facilidade, naturalidade 
+drenagem  | águas_residuais, drenagem, dreno 
+vice  | perversão, vice, campeão, colocado, segundo, vice 
+Impacta  |  
+legislação  | legislação, legislação 
+restrições  | limitação, restrição, restrição, restrição, limitação, restrição, limitação, restrição, restrição, limitação, restrição 
+criação  | criação, fundação, início, instituição, introdução, criação, criação, criação, criação, concepção, criação, cosmo, criação, mundo, natureza, universo, Universo 
+armazenamento  | armazenamento, depósito, armazenagem, armazenamento 
+utilização  | uso, utilização, aplicação, utilização 
+recursos  | activos, Ativo, recursos, vozactiva, meios, recursos 
+esgotamento  | cansaço, esgotamento, estafa, fadiga, Fadiga, fatiga 
+meios  | meios, recursos 
+evacuação  | evacuação, evacuação, evacuação, excreção, Excreção 
+aprovisionamento  | aprovisionamento, aquisição, compras, obtenção, suprimentos 
+emergência  | emergência, emergência, crescimento, emergência, emergência, urgência 
+incêndio  | fogo, incêndio, fogo, incêndio, Incêndios 
+sprinklers  |  
+Contingência  |  
+iluminação  | iluminação, iluminamento, iluminação, iluminação, luz, iluminação 
+exposição  | exibição, exposição, exposição, exposição, exposição, Exposições, exposição, vulnerabilidade 
+ruído  | ruído, ruído, som, ruído, ruído, ruído, estrondo, ruído 
+frequência  | frequência, freqüência, frequência, freqüência, Frequencia, frequência, freqüência 
+pessoal  | gente, nação, pessoal, povo, vulgo, pessoal, companhia, elenco, pessoal, pessoal, Policia, polícia, Polícia, polícias, equipe_de_funcionários, estado-maior, pessoal 
+empregados  | ajudante, assistente, empregado, empregado, barman, bárman, empregado, assalariado, empregada, empregado, mercenário, operário, trabalhador 
+temperaturas  | calor, temperatura, Temperatura, temperatura_do_ar, calor, temperatura, Temperatura, temperatura_do_ar, febre, temperatura 
+calor  | calor, temperatura, Temperatura, temperatura_do_ar, calor, calor, calor, febre, calor 
+frio  | frialdade, frieza, frio, frio, frio, frialdade, frieza, frio, frio, frieza, frio, frio, geada 
+poeira  | pó, poeira, poeiras 
+radiações  | exposição_às_radiações, irradiação, radiação, radiações, Radiação, radiação_solar, radiações, radiações, radioactividade 
+radiação  | exposição_às_radiações, irradiação, radiação, radiações, Radiação, radiação_solar, radiações 
+atividade  | ação, atividade, ato, atividade, ocupação, ação, actividade, atividade 
+esforço  | empenho, esforço, esforço, esforço, tentativa, esforço, esforço, tentativa, teste, esforço, tarefa, tentativa, trabalho 
+limite  | controle, inspeção, limite, verificação, aba, borda, fronteira, limite, fronteira, limitação, limite, limite, máximo, confins, fronteira, limite, fronteira, fronteiras, limite, borda, delimitação, fronteira, limite, borda, fronteira, limite, margem, fronteira, limite, limite, perímetro, borda, fronteira, limite, margem_interior, borda, fronteira, limite, perímetro, borda, limite, margem, periferia, borda, fronteira, fronteiras_nacionais, limite, margem 
+postura  | postura, atitude, posição, postura, posição, posição_ereta, postura, atitude, posição, postura 
+lesões  | Lesão, dano, ferimentos, inchaço, lesão, mal, traumatismo, ferida, Ferida, ferimento, ferimentos, lesão, mágoa 
+queimaduras  | queimadura, queimadura, queimadura 
+EPIs  |  
+atuais  |  
+ferramentas  | caixa, de, ferramentas 
