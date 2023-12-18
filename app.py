@@ -2,6 +2,7 @@ from fastapi import FastAPI, HTTPException
 from elasticsearch import Elasticsearch
 from elasticsearch.exceptions import ConnectionError
 from PyPDF2 import PdfReader
+from indexMapping import indexMapping
 import os 
 
 app = FastAPI()
@@ -25,46 +26,50 @@ def connect_to_elasticsearch(elasticsearch_url):
 elasticsearch_url = "http://localhost:9200"
 es = connect_to_elasticsearch(elasticsearch_url)
 
+index_name = "kempetro"
+
+index_exists = es.indices.exists(index=index_name)
+
+if not index_exists:
+    es.indices.create(index=index_name, body=indexMapping)
 
 
+def extrair_texto_pdf_index_elasticsearch(folder_path, index_name):
+   for filename in os.listdir(folder_path):
+       if filename.endswith(".PDF"):
+           file_path = os.path.join(folder_path, filename)
 
-def extrair_texto_pdf(folder_path):
-    resultados = []  # Lista para armazenar os resultados
+           # Extrair o texto do PDF
+           try:
+               reader = PdfReader(file_path)
+               texts = [page.extract_text() for page in reader.pages]
+           except Exception as e:
+               print(f"Erro ao ler o PDF {filename}: {e}")
+               continue
 
-    # Para cada arquivo em folder_path
-    for filename in os.listdir(folder_path):
-        # Verificar se termina com .pdf
-        if filename.lower().endswith(".pdf"):
-            # Pegar o path do arquivo
-            pdf_path = os.path.join(folder_path, filename)
+           # Indexar o texto no Elasticsearch
+           for i, text in enumerate(texts):
+               try:
+                  document = {
+                      "fileName": filename,
+                      "page": i,
+                      "content": text
+                  }
 
-            # Criar um contexto para garantir que o arquivo será fechado
-            with open(pdf_path, 'rb') as f:
-                # Criar um leitor de PDF
-                pdf = PdfReader(f)
+                  es.index(index=index_name, body=document)
+                  print("Documento indexado:", document)
+               except Exception as e:
+                  print(f"Erro ao indexar o documento {filename}: {e}")
 
-                # Iterar sobre as páginas e extrair o texto
-                for page_num, page in enumerate(pdf.pages):
-                    text = page.extract_text()
-                    # Adicionar informações a resultados
-                    resultados.append({
-                        "arquivo": filename,
-                        "pagina": page_num,
-                        "texto": text
-                    })
-
-    return resultados
-                
-
-
-
+   print("Indexação concluída com sucesso!")
 
 
 
 @app.get("/search")
-async def search():
-    folder_path = "./pdf"
-    return {"testes textos": extrair_texto_pdf(folder_path)}
+def buscar_textos():
+        
+
+
 
 
 
