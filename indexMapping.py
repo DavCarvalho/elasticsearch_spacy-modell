@@ -4,7 +4,7 @@ indexMapping = {
             "filter": {
                 "synonym_filter": {
                     "type": "synonym",
-                    "synonyms_path": "sinonimos_output-2.txt"
+                    "synonyms_path": "sinonimos_output-2.txt"  # Atualize este caminho
                 },
                 "portuguese_stop": {
                     "type": "stop",
@@ -20,8 +20,10 @@ indexMapping = {
         }
     },
     "mappings": {
-        "fileName": {"type": "text", "analyzer": "synonym_analyzer"},
-        "page": {"type": "integer"},
-        "content": {"type": "text", "analyzer": "synonym_analyzer"},
+        "properties": {  # Adicione esta linha
+            "fileName": {"type": "text", "analyzer": "synonym_analyzer"},
+            "page": {"type": "integer"},
+            "content": {"type": "text", "analyzer": "synonym_analyzer"},
+        }
     }
 }
