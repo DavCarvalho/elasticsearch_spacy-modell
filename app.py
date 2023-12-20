@@ -108,7 +108,7 @@ def indexar_documento(index_name: str):
 
 
 @app.get("/search/{query}")
-def buscar_palavras(query: str):
+def buscar_palavras(query: str, index_name: str):
     query_body = {
         "query": {
             "match": {
